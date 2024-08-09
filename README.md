@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains raw text files that are uploaded every time the Epoch in the Open Libra Network changes, which occurs approximately every 24 hours. These files contain a wide range of network-related information, particularly focused on the activities and movements of Validators during the previous Epoch.
+This repository contains raw text files that are uploaded by a script running on the validator server every time the Epoch in the Open Libra Network changes. which occurs approximately every 24 hours. These files contain a wide range of network-related information, particularly focused on the activities and movements of Validators during the previous Epoch.
 
 ## Viewing the Files
 
