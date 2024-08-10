@@ -20,4 +20,11 @@ cat <filename>
 
 Please note that the information contained in these files is unofficial and may differ from the actual facts. Discrepancies could occur due to time differences or other factors.
 
+## Support and Donations
+
+If the newspaper proves beneficial for your validator operations, a modest donation would be greatly appreciated. Your contribution would serve as a driving force behind the continuous updates and regular uploads of the newspaper.
+```bash
+libra txs transfer --to-account 8600C7C59C317FDE3C024C85C4FFEC6891F51D19503B38D6FF7446AF092534BA --amount <Your expression of support>
+```
+
 Carpe Diem, Carpe Libra!✊🔆
