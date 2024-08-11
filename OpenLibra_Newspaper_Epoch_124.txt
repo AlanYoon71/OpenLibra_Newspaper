@@ -36,7 +36,7 @@ ca6b...fdf2  03  0090   -   @aaronwhite9527  Ƚ     379,401.73 {$     236.63}  R
 4ede...093a  07  0050   -   @ownyrd          Ƚ     717,110.57 {$     447.26}  Reward received ✓ Ƚ +34,276.69  
 2fa5...95a0  12  0050   -   @johnpaul9185    Ƚ     212,861.28 {$     132.76}  Reward received ✓ Ƚ +34,276.69  
 c88f...3bb4  13  0011  vfn  @.n.u.k.e.       Ƚ     725,999.74 {$     452.81}  Reward received ✓ Ƚ +34,276.70  
-ab80...cefe  06  0011   -   @alanyoon        Ƚ     341,612.99 {$     213.06}  Reward received ✓ Ƚ +34,276.69  
+ab80...cefe  06  0011   -   @alanyoon        Ƚ     307,342.98 {$     191.69}                  ✓ Ƚ +6.68  
 d578...af37  05  0011   -   @bbk8530         Ƚ     785,076.31 {$     489.65}  Reward received ✓ Ƚ +34,276.69  
 95c8...6ae5  09  0011   -   @bbk8530         Ƚ     710,869.90 {$     443.37}  Reward received ✓ Ƚ +34,276.69  
 f485...017e  07  0011   -   @slappymcslapper Ƚ     278,783.05 {$     173.88}  Reward received ✓ Ƚ +34,276.69  
@@ -86,47 +86,47 @@ Performance Champion
 Set Performance(avg ± stddev): 3,991.22 ± 453.56
 Performance Status of All Validators in Set
 
-aa7b...09b3 ╠╬╣       @0xslipk         vchs ╠╬╣ 3 United States   (0.0%)001 / 4201(100.0%)🏆🥇|||| 4
-c88f...3bb4 ╠╬╣       @.n.u.k.e.       vchs ╠╬╣ 3 Finland         (0.0%)001 / 4189(99.7%)🏆🥇||||| 5
+aa7b...09b3 ╠╬╣       @0xslipk         vchs ╠╬╣ 03 United States   (0.0%)001 / 4201(100.0%)🏆🥇|||| 4
+c88f...3bb4 ╠╬╣       @.n.u.k.e.       vchs ╠╬╣ 03 Finland         (0.0%)001 / 4189(99.7%)🏆🥇||||| 5
 7441...5aea           @kryptikpanda                Germany               000 / 4182(99.5%)🏆🥇| 1
-9499...861f           @barmaley8971    vchs ╠╬╣ 9 United States         000 / 4159(99.0%)🏆🥇|| 2
+9499...861f           @barmaley8971    vchs ╠╬╣ 03 United States         000 / 4159(99.0%)🏆🥇|| 2
 7978...3f54 ╠╬╣       @_easy123                    Finland               000 / 4151(98.8%)🏆🥇|| 2
-4ede...093a ╠╬╣       @ownyrd          vchs ╠╬╣ 4 Germany               000 / 4149(98.8%)🏆🥇||||| 5
-5664...4392           @abed8998        vchs ╠╬╣ 3 Germany               000 / 4149(98.8%)🏆🥇|||||| 6
+4ede...093a ╠╬╣       @ownyrd          vchs ╠╬╣ 04 Germany               000 / 4149(98.8%)🏆🥇||||| 5
+5664...4392           @abed8998        vchs ╠╬╣ 03 Germany               000 / 4149(98.8%)🏆🥇|||||| 6
 d578...af37 ╠╬╣       @bbk8530                     South Korea     (0.0%)002 / 4142(98.6%)🏆🥇| 1
-9909...9e4f ╠╬╣       @pithecus.astr   vchs ╠╬╣ 2 France                000 / 4140(98.5%)🏆🥇|| 2
-8186...5105           @ashiiix         vchs ╠╬╣ 3 United States         000 / 4139(98.5%)🏆🥇||| 3
+9909...9e4f ╠╬╣       @pithecus.astr   vchs ╠╬╣ 02 France                000 / 4140(98.5%)🏆🥇|| 2
+8186...5105           @ashiiix         vchs ╠╬╣ 03 United States         000 / 4139(98.5%)🏆🥇||| 3
 16b3...3444           @judasdaygame                Germany               000 / 4125(98.2%)🏆🥇| 1
-1fff...ecd9           @dboreham        vchs ╠╬╣ 3 United States   (0.1%)005 / 4122(98.1%)🏆🥇| 1
+1fff...ecd9           @dboreham        vchs ╠╬╣ 03 United States   (0.1%)005 / 4122(98.1%)🏆🥇| 1
 0d78...5a1a           @ncontrol88                  Finland               000 / 4105(97.7%)🏆🥇||||||| 7
-25c3...e341           @texaseduc8r     vchs ╠╬╣ 3 United States         000 / 4102(97.6%)🏆🥇| 1
-9de5...be48           @zerooooooooo1   vchs ╠╬╣ 4 United States   (0.1%)005 / 4100(97.6%)
-949e...d51c           @bigbubabeast    vchs ╠╬╣ 3 Germany               000 / 4099(97.6%)🏆🥇||||||| 7
+25c3...e341           @texaseduc8r     vchs ╠╬╣ 03 United States         000 / 4102(97.6%)🏆🥇| 1
+9de5...be48           @zerooooooooo1   vchs ╠╬╣ 04 United States   (0.1%)005 / 4100(97.6%)
+949e...d51c           @bigbubabeast    vchs ╠╬╣ 03 Germany               000 / 4099(97.6%)🏆🥇||||||| 7
 0612...807a           @qusuy                       Germany               000 / 4098(97.5%)🏆🥇||| 3
 b5b5...3834           @ricoflan                    The Netherlands (0.0%)001 / 4083(97.2%)🏆🥇| 1
-7549...a6cd           @bethose         vchs ╠╬╣ 3 United States         000 / 4078(97.1%)🏆🥇|||||| 6
+7549...a6cd           @bethose         vchs ╠╬╣ 03 United States         000 / 4078(97.1%)🏆🥇|||||| 6
 ca6b...fdf2           @aaronwhite9527              Germany               000 / 4071(96.9%)
 b384...e0d8 ╠╬╣╠╬╣    @pedro00                     United States         000 / 4069(96.9%)
-13a6...dddd           @c64michael      vchs ╠╬╣ 3 Germany               000 / 4065(96.8%)🏆🥇||| 3
-4d25...92c6           @saturn_0505     vchs ╠╬╣ 3 United States   (0.1%)005 / 4059(96.6%)🏆🥇|| 2
+13a6...dddd           @c64michael      vchs ╠╬╣ 03 Germany               000 / 4065(96.8%)🏆🥇||| 3
+4d25...92c6           @saturn_0505     vchs ╠╬╣ 03 United States   (0.1%)005 / 4059(96.6%)🏆🥇|| 2
 2fa5...95a0           @johnpaul9185                The Netherlands       000 / 4055(96.5%)🏆🥇| 1
-cf18...7693           @kalvinen        vchs ╠╬╣ 4 Germany               000 / 4054(96.5%)🏆🥇|||| 4
+cf18...7693           @kalvinen        vchs ╠╬╣ 04 Germany               000 / 4054(96.5%)🏆🥇|||| 4
 b32e...80dd           @blackgrouse_                Finland         (0.0%)001 / 4047(96.3%)🏆🥇|| 2
 9763...e0ea           @w3sc                        Argentina       (0.0%)001 / 4043(96.2%)🏆🥇|||| 4
-e77d...023d           @nourspace       vchs ╠╬╣ 3 Germany               000 / 4043(96.2%)🏆🥇||| 3
-b8ba...f23d           @dmski1          vchs ╠╬╣ 3 United States         000 / 4033(96.0%)🏆🥇||| 3
+e77d...023d           @nourspace       vchs ╠╬╣ 03 Germany               000 / 4043(96.2%)🏆🥇||| 3
+b8ba...f23d           @dmski1          vchs ╠╬╣ 03 United States         000 / 4033(96.0%)🏆🥇||| 3
 8655...6354           @.m0ot                       France                000 / 4030(95.9%)🏆🥇|| 2
 fdcf...be9b           @lemonium9962                Singapore       (0.0%)001 / 4014(95.5%)🏆🥇| 1
-95c8...6ae5           @bbk8530         vchs ╠╬╣ 1 Germany               000 / 4009(95.4%)🏆🥇| 1
-71e5...e2fc           @mrrob0t333      vchs ╠╬╣ 3 Germany               000 / 4003(95.3%)🏆🥇||||||||| 9
-55b6...cca6           @wuya51          vchs ╠╬╣ 3 Germany               000 / 3984(94.8%)🏆🥇|| 2
-32f2...4b53           @alanyoon        vchs ╠╬╣ 6 South Korea           000 / 3977(94.7%)🏆🥇|||| 4
+95c8...6ae5           @bbk8530         vchs ╠╬╣ 01 Germany               000 / 4009(95.4%)🏆🥇| 1
+71e5...e2fc           @mrrob0t333      vchs ╠╬╣ 03 Germany               000 / 4003(95.3%)🏆🥇||||||||| 9
+55b6...cca6           @wuya51          vchs ╠╬╣ 03 Germany               000 / 3984(94.8%)🏆🥇|| 2
+32f2...4b53           @alanyoon        vchs ╠╬╣ 06 South Korea           000 / 3977(94.7%)🏆🥇|||| 4
 f485...017e           @slappymcslapper             United States         000 / 3977(94.7%)
 77f2...6f26           @hemulin                     Germany               000 / 3965(94.4%)🏆🥇| 1
-ab80...cefe           @alanyoon        vchs ╠╬╣ 2 South Korea     (0.1%)003 / 3921(93.3%)
-9a01...7a2e           @coin1111        vchs ╠╬╣ 9 United States   (0.4%)015 / 3845(91.5%)
-9a71...5c91           @sirouk          vchs ╠╬╣ 5 United States   (0.0%)001 / 3676(87.5%)🏆🥇|| 2
-52d7...e87f           @luckyduder      vchs ╠╬╣ 3 Canada          (1.9%)022 / 1187(28.3%)🏆🥇| 1
+ab80...cefe           @alanyoon        vchs ╠╬╣ 02 South Korea     (0.1%)003 / 3921(93.3%)
+9a01...7a2e           @coin1111        vchs ╠╬╣ 03 United States   (0.4%)015 / 3845(91.5%)
+9a71...5c91           @sirouk          vchs ╠╬╣ 05 United States   (0.0%)001 / 3676(87.5%)🏆🥇|| 2
+52d7...e87f           @luckyduder      vchs ╠╬╣ 03 Canada          (1.9%)022 / 1187(28.3%)🏆🥇| 1
 --------------------------------
 No active vouch changes in set has been detected.
 
