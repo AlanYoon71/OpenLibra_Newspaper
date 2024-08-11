@@ -8,47 +8,47 @@
 
 1. Active Validators in Set(41) - Epoch 124
 --------------------------------
-8186...5105   03   1000    -    @ashiiix          Ƚ   3,764,268.33 {$   2,347.77}   Reward received ✓ Ƚ +34,276.69  
-b32e...80dd   05   0750    -    @blackgrouse_     Ƚ      63,303.31 {$      39.48}   Reward received ✓ Ƚ +34,276.69  
-1fff...ecd9   03   0600    -    @dboreham         Ƚ     717,064.28 {$     447.23}   Reward received ✓ Ƚ +34,276.70  
-7549...a6cd   05   0500    -    @bethose          Ƚ  10,323,063.21 {$   6,438.49}   Reward received ✓ Ƚ +34,276.70  
-9763...e0ea   04   0500    -    @w3sc             Ƚ     712,724.11 {$     444.53}   Reward received ✓ Ƚ +34,276.69  
-77f2...6f26   06   0500    -    @hemulin          Ƚ     526,698.81 {$     328.50}   Reward received ✓ Ƚ +34,276.69  
-16b3...3444   06   0500    -    @judasdaygame     Ƚ   7,058,721.34 {$   4,402.52}   Reward received ✓ Ƚ +34,276.69  
-71e5...e2fc   03   0450    -    @mrrob0t333       Ƚ     104,111.29 {$      64.93}   Reward received ✓ Ƚ +34,276.69  
-949e...d51c   03   0450    -    @bigbubabeast     Ƚ      69,425.28 {$      43.30}   Reward received ✓ Ƚ +34,276.69  
-52d7...e87f   05   0450    -    @luckyduder       Ƚ  11,526,353.00 {$   7,188.99}   Reward received ✓ Ƚ +34,276.69  
-5664...4392   07   0450    -    @abed8998         Ƚ   5,191,566.45 {$   3,237.98}   Reward received ✓ Ƚ +34,276.69  
-aa7b...09b3   08   0450   vfn   @0xslipk          Ƚ     285,770.91 {$     178.24}   Reward received ✓ Ƚ +34,276.69  
-9a71...5c91   14   0450   vfn   @sirouk           Ƚ   9,674,941.37 {$   6,034.26}   Reward received ✓ Ƚ +34,276.70  
-b8ba...f23d   09   0450   vfn   @dmski1           Ƚ   4,614,729.60 {$   2,878.21}   Reward received ✓ Ƚ +34,276.70  
-b5b5...3834   05   0450   vfn   @ricoflan         Ƚ  25,046,968.96 {$  15,621.79}   Reward received ✓ Ƚ +34,276.69  
-8655...6354   03   0450    -    @.m0ot            Ƚ   2,118,211.61 {$   1,321.13}   Reward received ✓ Ƚ +34,276.69  
-fdcf...be9b   06   0300   vfn   @lemonium9962     Ƚ     706,144.94 {$     440.42}   Reward received ✓ Ƚ +34,276.69  
-7441...5aea   02   0300    -    @kryptikpanda     Ƚ   1,526,916.81 {$     952.34}   Reward received ✓ Ƚ +34,276.69  
-e77d...023d   10   0150    -    @nourspace        Ƚ   4,234,654.66 {$   2,641.15}   Reward received ✓ Ƚ +34,276.70  
-0612...807a   06   0150    -    @qusuy            Ƚ     118,993.87 {$      74.22}   Reward received ✓ Ƚ +34,276.69  
-9de5...be48   05   0100   vfn   @zerooooooooo1    Ƚ     717,110.62 {$     447.26}   Reward received ✓ Ƚ +34,276.69  
-55b6...cca6   13   0100    -    @wuya51           Ƚ     723,508.59 {$     451.25}   Reward received ✓ Ƚ +34,276.69  
-cf18...7693   09   0100    -    @kalvinen         Ƚ   1,080,154.42 {$     673.69}   Reward received ✓ Ƚ +34,276.69  
-32f2...4b53   10   0100   vfn   @alanyoon         Ƚ   5,219,426.57 {$   3,255.36}   Reward received ✓ Ƚ +34,276.70  
-ca6b...fdf2   03   0090    -    @aaronwhite9527   Ƚ     379,401.73 {$     236.63}   Reward received ✓ Ƚ +34,276.69  
-4ede...093a   07   0050    -    @ownyrd           Ƚ     717,110.57 {$     447.26}   Reward received ✓ Ƚ +34,276.69  
-2fa5...95a0   12   0050    -    @johnpaul9185     Ƚ     212,861.28 {$     132.76}   Reward received ✓ Ƚ +34,276.69  
-c88f...3bb4   13   0011   vfn   @.n.u.k.e.        Ƚ     725,999.74 {$     452.81}   Reward received ✓ Ƚ +34,276.70  
-ab80...cefe   06   0011    -    @alanyoon         Ƚ     341,612.99 {$     213.06}   Reward received ✓ Ƚ +34,276.69  
-d578...af37   05   0011    -    @bbk8530          Ƚ     785,076.31 {$     489.65}   Reward received ✓ Ƚ +34,276.69  
-95c8...6ae5   09   0011    -    @bbk8530          Ƚ     710,869.90 {$     443.37}   Reward received ✓ Ƚ +34,276.69  
-f485...017e   07   0011    -    @slappymcslapper  Ƚ     278,783.05 {$     173.88}   Reward received ✓ Ƚ +34,276.69  
-13a6...dddd   09   0010    -    @c64michael       Ƚ     727,111.93 {$     453.50}   Reward received ✓ Ƚ +34,276.69  
-4d25...92c6   04   0010    -    @saturn_0505      Ƚ     777,218.37 {$     484.75}   Reward received ✓ Ƚ +34,276.69  
-9a01...7a2e   17   0010    -    @coin1111         Ƚ     724,599.94 {$     451.93}   Reward received ✓ Ƚ +34,276.69  
-25c3...e341   10   0010    -    @texaseduc8r      Ƚ      98,201.16 {$      61.25}   Trg'd new epoch ✓   🤖✊🔆  
-9499...861f   20   0010    -    @barmaley8971     Ƚ     722,458.53 {$     450.60}   Reward received ✓ Ƚ +34,276.70  
-9909...9e4f   04   0010    -    @pithecus.astr    Ƚ   3,229,660.17 {$   2,014.34}   Reward received ✓ Ƚ +34,276.70  
-b384...e0d8   03   0010   vfn   @pedro00          Ƚ     495,603.28 {$     309.11}   Reward received ✓ Ƚ +34,276.69  
-0d78...5a1a   03   0010    -    @ncontrol88       Ƚ     617,758.10 {$     385.30}   Reward received ✓ Ƚ +34,276.69  
-7978...3f54   02   0010    -    @_easy123         Ƚ     347,203.48 {$     216.55}                 -                
+8186...5105  03  1000   -   @ashiiix         Ƚ   3,764,268.33 {$   2,347.77}  Reward received ✓ Ƚ +34,276.69  
+b32e...80dd  05  0750   -   @blackgrouse_    Ƚ      63,303.31 {$      39.48}  Reward received ✓ Ƚ +34,276.69  
+1fff...ecd9  03  0600   -   @dboreham        Ƚ     717,064.28 {$     447.23}  Reward received ✓ Ƚ +34,276.70  
+7549...a6cd  05  0500   -   @bethose         Ƚ  10,323,063.21 {$   6,438.49}  Reward received ✓ Ƚ +34,276.70  
+9763...e0ea  04  0500   -   @w3sc            Ƚ     712,724.11 {$     444.53}  Reward received ✓ Ƚ +34,276.69  
+77f2...6f26  06  0500   -   @hemulin         Ƚ     526,698.81 {$     328.50}  Reward received ✓ Ƚ +34,276.69  
+16b3...3444  06  0500   -   @judasdaygame    Ƚ   7,058,721.34 {$   4,402.52}  Reward received ✓ Ƚ +34,276.69  
+71e5...e2fc  03  0450   -   @mrrob0t333      Ƚ     104,111.29 {$      64.93}  Reward received ✓ Ƚ +34,276.69  
+949e...d51c  03  0450   -   @bigbubabeast    Ƚ      69,425.28 {$      43.30}  Reward received ✓ Ƚ +34,276.69  
+52d7...e87f  05  0450   -   @luckyduder      Ƚ  11,526,353.00 {$   7,188.99}  Reward received ✓ Ƚ +34,276.69  
+5664...4392  07  0450   -   @abed8998        Ƚ   5,191,566.45 {$   3,237.98}  Reward received ✓ Ƚ +34,276.69  
+aa7b...09b3  08  0450  vfn  @0xslipk         Ƚ     285,770.91 {$     178.24}  Reward received ✓ Ƚ +34,276.69  
+9a71...5c91  14  0450  vfn  @sirouk          Ƚ   9,674,941.37 {$   6,034.26}  Reward received ✓ Ƚ +34,276.70  
+b8ba...f23d  09  0450  vfn  @dmski1          Ƚ   4,614,729.60 {$   2,878.21}  Reward received ✓ Ƚ +34,276.70  
+b5b5...3834  05  0450  vfn  @ricoflan        Ƚ  25,046,968.96 {$  15,621.79}  Reward received ✓ Ƚ +34,276.69  
+8655...6354  03  0450   -   @.m0ot           Ƚ   2,118,211.61 {$   1,321.13}  Reward received ✓ Ƚ +34,276.69  
+fdcf...be9b  06  0300  vfn  @lemonium9962    Ƚ     706,144.94 {$     440.42}  Reward received ✓ Ƚ +34,276.69  
+7441...5aea  02  0300   -   @kryptikpanda    Ƚ   1,526,916.81 {$     952.34}  Reward received ✓ Ƚ +34,276.69  
+e77d...023d  10  0150   -   @nourspace       Ƚ   4,234,654.66 {$   2,641.15}  Reward received ✓ Ƚ +34,276.70  
+0612...807a  06  0150   -   @qusuy           Ƚ     118,993.87 {$      74.22}  Reward received ✓ Ƚ +34,276.69  
+9de5...be48  05  0100  vfn  @zerooooooooo1   Ƚ     717,110.62 {$     447.26}  Reward received ✓ Ƚ +34,276.69  
+55b6...cca6  13  0100   -   @wuya51          Ƚ     723,508.59 {$     451.25}  Reward received ✓ Ƚ +34,276.69  
+cf18...7693  09  0100   -   @kalvinen        Ƚ   1,080,154.42 {$     673.69}  Reward received ✓ Ƚ +34,276.69  
+32f2...4b53  10  0100  vfn  @alanyoon        Ƚ   5,185,156.56 {$   3,233.98}                  ✓ Ƚ +6.68  
+ca6b...fdf2  03  0090   -   @aaronwhite9527  Ƚ     379,401.73 {$     236.63}  Reward received ✓ Ƚ +34,276.69  
+4ede...093a  07  0050   -   @ownyrd          Ƚ     717,110.57 {$     447.26}  Reward received ✓ Ƚ +34,276.69  
+2fa5...95a0  12  0050   -   @johnpaul9185    Ƚ     212,861.28 {$     132.76}  Reward received ✓ Ƚ +34,276.69  
+c88f...3bb4  13  0011  vfn  @.n.u.k.e.       Ƚ     725,999.74 {$     452.81}  Reward received ✓ Ƚ +34,276.70  
+ab80...cefe  06  0011   -   @alanyoon        Ƚ     341,612.99 {$     213.06}  Reward received ✓ Ƚ +34,276.69  
+d578...af37  05  0011   -   @bbk8530         Ƚ     785,076.31 {$     489.65}  Reward received ✓ Ƚ +34,276.69  
+95c8...6ae5  09  0011   -   @bbk8530         Ƚ     710,869.90 {$     443.37}  Reward received ✓ Ƚ +34,276.69  
+f485...017e  07  0011   -   @slappymcslapper Ƚ     278,783.05 {$     173.88}  Reward received ✓ Ƚ +34,276.69  
+13a6...dddd  09  0010   -   @c64michael      Ƚ     727,111.93 {$     453.50}  Reward received ✓ Ƚ +34,276.69  
+4d25...92c6  04  0010   -   @saturn_0505     Ƚ     777,218.37 {$     484.75}  Reward received ✓ Ƚ +34,276.69  
+9a01...7a2e  17  0010   -   @coin1111        Ƚ     724,599.94 {$     451.93}  Reward received ✓ Ƚ +34,276.69  
+25c3...e341  10  0010   -   @texaseduc8r     Ƚ      98,201.16 {$      61.25}  Trg'd new epoch ✓   🤖✊🔆  
+9499...861f  20  0010   -   @barmaley8971    Ƚ     722,458.53 {$     450.60}  Reward received ✓ Ƚ +34,276.70  
+9909...9e4f  04  0010   -   @pithecus.astr   Ƚ   3,229,660.17 {$   2,014.34}  Reward received ✓ Ƚ +34,276.70  
+b384...e0d8  03  0010  vfn  @pedro00         Ƚ     495,603.28 {$     309.11}  Reward received ✓ Ƚ +34,276.69  
+0d78...5a1a  03  0010   -   @ncontrol88      Ƚ     617,758.10 {$     385.30}  Reward received ✓ Ƚ +34,276.69  
+7978...3f54  02  0010   -   @_easy123        Ƚ     347,203.48 {$     216.55}                -                
 --------------------------------
 $LIBRA Price(USD/Ƚ)
 
@@ -86,15 +86,15 @@ Performance Champion
 Set Performance(avg ± stddev): 3,991.22 ± 453.56
 Performance Status of All Validators in Set
 
-aa7b...09b3 ╠╬╣ @0xslipk         vchs ╠╬╣ 3 United States   (0.0%)001 / 4201(100.0%)🏆🥇|||| 4
-c88f...3bb4 ╠╬╣ @.n.u.k.e.       vchs ╠╬╣ 3 Finland         (0.0%)001 / 4189(99.7%)🏆🥇||||| 5
+aa7b...09b3 ╠╬╣       @0xslipk         vchs ╠╬╣ 3 United States   (0.0%)001 / 4201(100.0%)🏆🥇|||| 4
+c88f...3bb4 ╠╬╣       @.n.u.k.e.       vchs ╠╬╣ 3 Finland         (0.0%)001 / 4189(99.7%)🏆🥇||||| 5
 7441...5aea           @kryptikpanda                Germany               000 / 4182(99.5%)🏆🥇| 1
 9499...861f           @barmaley8971    vchs ╠╬╣ 9 United States         000 / 4159(99.0%)🏆🥇|| 2
-7978...3f54 ╠╬╣ @_easy123                    Finland               000 / 4151(98.8%)🏆🥇|| 2
-4ede...093a ╠╬╣ @ownyrd          vchs ╠╬╣ 4 Germany               000 / 4149(98.8%)🏆🥇||||| 5
+7978...3f54 ╠╬╣       @_easy123                    Finland               000 / 4151(98.8%)🏆🥇|| 2
+4ede...093a ╠╬╣       @ownyrd          vchs ╠╬╣ 4 Germany               000 / 4149(98.8%)🏆🥇||||| 5
 5664...4392           @abed8998        vchs ╠╬╣ 3 Germany               000 / 4149(98.8%)🏆🥇|||||| 6
-d578...af37 ╠╬╣ @bbk8530                     South Korea     (0.0%)002 / 4142(98.6%)🏆🥇| 1
-9909...9e4f ╠╬╣ @pithecus.astr   vchs ╠╬╣ 2 France                000 / 4140(98.5%)🏆🥇|| 2
+d578...af37 ╠╬╣       @bbk8530                     South Korea     (0.0%)002 / 4142(98.6%)🏆🥇| 1
+9909...9e4f ╠╬╣       @pithecus.astr   vchs ╠╬╣ 2 France                000 / 4140(98.5%)🏆🥇|| 2
 8186...5105           @ashiiix         vchs ╠╬╣ 3 United States         000 / 4139(98.5%)🏆🥇||| 3
 16b3...3444           @judasdaygame                Germany               000 / 4125(98.2%)🏆🥇| 1
 1fff...ecd9           @dboreham        vchs ╠╬╣ 3 United States   (0.1%)005 / 4122(98.1%)🏆🥇| 1
@@ -106,7 +106,7 @@ d578...af37 ╠╬╣ @bbk8530                     South Korea     (0.0%)002 / 4
 b5b5...3834           @ricoflan                    The Netherlands (0.0%)001 / 4083(97.2%)🏆🥇| 1
 7549...a6cd           @bethose         vchs ╠╬╣ 3 United States         000 / 4078(97.1%)🏆🥇|||||| 6
 ca6b...fdf2           @aaronwhite9527              Germany               000 / 4071(96.9%)
-b384...e0d8 ╠╬╣╠╬╣ @pedro00                     United States         000 / 4069(96.9%)
+b384...e0d8 ╠╬╣╠╬╣    @pedro00                     United States         000 / 4069(96.9%)
 13a6...dddd           @c64michael      vchs ╠╬╣ 3 Germany               000 / 4065(96.8%)🏆🥇||| 3
 4d25...92c6           @saturn_0505     vchs ╠╬╣ 3 United States   (0.1%)005 / 4059(96.6%)🏆🥇|| 2
 2fa5...95a0           @johnpaul9185                The Netherlands       000 / 4055(96.5%)🏆🥇| 1
@@ -507,4 +507,4 @@ d1cc...40a8 @brakod
 
 -------------------------------------------------------
 
-------------------------------  Script Execution Time: 7 minutes and 49 seconds
+------------------------------  Script Execution Time: 7 minutes and 43 seconds
