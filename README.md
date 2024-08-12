@@ -7,7 +7,7 @@ This repository contains raw text files that are uploaded by a script running on
 
 ## Script Update History
 ```bash
-8/12/2004 v7.1.0: Improved formatting control logic for Newspaper output (removed control characters from output file)
+8/12/2024 v7.1.0: Improved formatting control logic for Newspaper output (removed control characters from output file)
 ```
 
 ## Disclaimer
