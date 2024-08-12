@@ -5,15 +5,9 @@
 
 This repository contains raw text files that are uploaded by a script running on the validator server every time the Epoch in the Open Libra Network changes. which occurs approximately every 24 hours. These files contain a wide range of network-related information, particularly focused on the activities and movements of Validators during the previous Epoch.
 
-## Viewing the Files
-
-The raw text files contain special characters and formatting codes that might make them difficult to read in their raw state. It is recommended to download the files and view them in a terminal environment for better readability.
-
-Linux or macOS users can simply use the `cat` command to view files in a neatly formatted state without needing any additional steps.
-Windows users can view the files using Git Bash, which provides a Unix-like terminal after installing https://gitforwindows.org/
-
+## Script Update History
 ```bash
-cat <filename>
+8/12/2004 v7.1.0: Improved formatting control logic for Newspaper output (removed control characters from output file)
 ```
 
 ## Disclaimer
