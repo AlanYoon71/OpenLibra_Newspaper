@@ -7,7 +7,7 @@ This repository contains raw text files that are uploaded by a script running on
 
 ## Script Update History
 ```bash
-8/16/2024 v7.1.2: Added the daily scarcity ratio (CUR, replacing S2F) for Aptos and Sui, and compare it with Libra.
+8/16/2024 v7.1.2: Added the daily scarcity ratio (CUR, replacing S2F) for Aptos and compared it with Libra figures.
 8/12/2024 v7.1.0: Improved formatting control logic for Newspaper output (removed control characters from output file)
 ```
 
