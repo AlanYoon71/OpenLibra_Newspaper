@@ -7,7 +7,8 @@ This repository contains raw text files that are uploaded by a script running on
 
 ## Script Update History
 ```bash
-8/16/2024 v7.1.2: Added the daily scarcity(CUR, replacing S2F) and unlock inflation ratio for Aptos and compared them with Libra's figures.
+8/20/2024 v7.1.3: Corrected the error in the daily change calculation formula for the Aptos Unlock Inflation Ratio.
+8/16/2024 v7.1.2: Added the Daily Scarcity(CUR, replacing S2F) and Unlock Inflation Ratio for Aptos and compared them with Libra's figures.
 8/12/2024 v7.1.0: Improved formatting control logic for Newspaper output (removed control characters from output file)
 ```
 
