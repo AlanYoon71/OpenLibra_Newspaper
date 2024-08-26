@@ -1,0 +1,1381 @@
+    ██████╗ ██████╗ ███████╗███╗   ██╗     ██╗     ██╗██████╗ ██████╗  █████╗  
+   ██╔═══██╗██╔══██╗██╔════╝████╗  ██║     ██║     ██║██╔══██╗██╔══██╗██╔══██╗ 
+   ██║   ██║██████╔╝█████╗  ██╔██╗ ██║     ██║     ██║██████╔╝██████╔╝███████║ 
+   ██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║     ██║     ██║██╔══██╗██╔══██╗██╔══██║ 
+   ╚██████╔╝██║     ███████╗██║ ╚████║     ███████╗██║██████╔╝██║  ██║██║  ██║ 
+    ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝     ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ 
+                  A PERMISSIONLESS, TRANSPARENT, COMMUNITY-DRIVEN PROJECT ✊🔆
+
+1. Active Validators in Set(15) - Epoch 135
+--------------------------------
+16b3...3444  00  0500   -   @judasdaygame    Ƚ   7,438,556.49 {$   5,337.16}  Reward received ✓ Ƚ +58,624.78  
+77f2...6f26  00  0500   -   @hemulin         Ƚ     906,533.96 {$     650.44}  Reward received ✓ Ƚ +58,624.77  
+7549...a6cd  00  0500  vfn  @bethose         Ƚ  10,702,898.42 {$   7,679.33}  Reward received ✓ Ƚ +58,624.78  
+5664...4392  00  0450   -   @abed8998        Ƚ   5,571,401.71 {$   3,997.48}  Reward received ✓ Ƚ +58,624.78  
+fdcf...be9b  00  0300  vfn  @lemonium9962    Ƚ   1,085,970.08 {$     779.18}  Reward received ✓ Ƚ +58,624.78  
+d19a...f5c4  00  0250   -   @0xslipk         Ƚ      88,305.49 {$      63.36}  Reward received ✓ Ƚ +58,624.78  
+25c3...e341  00  0150   -   @texaseduc8r     Ƚ     103,300.99 {$      74.12}  Reward received ✓ Ƚ +58,624.77  
+9a01...7a2e  00  0150   -   @coin1111        Ƚ   1,104,434.99 {$     792.43}  Reward received ✓ Ƚ +58,624.78  
+e77d...023d  00  0150   -   @nourspace       Ƚ   4,614,489.80 {$   3,310.90}  Reward received ✓ Ƚ +58,624.77  
+9499...861f  00  0150   -   @barmaley8971    Ƚ   1,102,293.56 {$     790.90}  Reward received ✓ Ƚ +58,624.77  
+32f2...4b53  00  0100  vfn  @alanyoon        Ƚ     856,511.55 {$     614.55}  Reward received ✓ Ƚ +58,624.77  
+2fa5...95a0  00  0050   -   @johnpaul9185    Ƚ     223,695.37 {$     160.50}  Reward received ✓ Ƚ +58,624.77  
+f485...017e  00  0011   -   @slappymcslapper Ƚ      53,617.13 {$      38.47}  Reward received ✓ Ƚ +58,624.77  
+d578...af37  00  0011   -   @bbk8530         Ƚ   1,164,911.45 {$     835.82}  Reward received ✓ Ƚ +58,624.77  
+13a6...dddd  00  0010   -   @c64michael      Ƚ   1,106,947.19 {$     794.23}  Reward received ✓ Ƚ +58,624.78  
+--------------------------------
+$LIBRA Price(USD/Ƚ)
+
+Current price: $ 0.0007175, Price change in the last 24 hours: -2.55%
+From https://api.dexscreener.com/latest/dex/pairs/base/0x809E62A0Abe226853fFdB9E362AFbBbB870B59eb
+--------------------------------
+Supply Status of Open Libra L1 Blockchain
+
+Open Libra Chain Total Supply : Ƚ 94,937,649,056.852 (      -23,166.469)
+Open Libra Circulating Supply : Ƚ  7,395,250,764.422 (+   6,905,822.610)
+From https://api.0l.fyi/stats/total-supply, https://api.0l.fyi/stats/circulating-supply
+
+FDV (Fully Diluted Valuation) : $     68,117,763.198 (+   4,386,103.835)
+FDV (Fully Diluted Valuation) = Total Supply * Current  Price
+
+Est.   Daily   $LIBRA  Unlock : Ƚ      6,905,822.610 (  -1,549,944.295)
+Est.   Annual  $LIBRA  Unlock : Ƚ  2,520,625,252.650 (-565,729,667.675)
+
+Libra S2F (Stock-to-Flow Ratio) = Total Supply / Anual Issuance(Zero) : The issuance has been completed!
+Libra Issuance Inflation Ratio  = Anual Issuance(Zero) / Total Supply : No issuance inflation!
+
+Libra  CUR (scarcity,  replacing S2F) = Circul. Supply / Anual Unlock : 2.933 (+ 0.540)
+Aptos  CUR (scarcity,  replacing S2F) = Circul. Supply / Anual Unlock : 1.437 (-6.756)
+
+Libra Unlock Inflation Ratio = Anual Unlock / Circul. Supply : 34.08% (-7.690%)
+Aptos Unlock Inflation Ratio = Anual Unlock / Circul. Supply : 69.58% (+57.380%)
+Calculated based on daily changes in Aptos’ circulating supply figures from CoinGecko.
+--------------------------------
+Peak TPS[txs/s] Record
+
+6.2(+0.4)[txs/s] over 5s spans, 5.4(+0.0)[txs/s] over 10s spans.
+From diem_data_client_highest_advertised_data{data_type="transaction_outputs"}
+--------------------------------
+Performance Champion
+
+ 🏆 7549...a6cd @bethose 🥇  Championship Count: 8 (Current max. count in set: 9)
+ 🗳️ 24,116 proposals were successful, the largest among validators with no failed proposals.
+--------------------------------
+Set Performance(avg ± stddev): 22,476.40 ± 4,432.77
+Performance Status of All Validators in Set
+
+7549...a6cd           @bethose         vchs ╠╬╣ 03 United States         000 / 24116(100.0%)🏆🥇|||||||| 8
+2fa5...95a0           @johnpaul9185                The Netherlands       000 / 24104(100.0%)🏆🥇|| 2
+0d78...5a1a           @ncontrol88                  Finland               000 / 24078(99.8%)🏆🥇||||||| 7
+b5b5...3834           @ricoflan                    The Netherlands (0.0%)001 / 24061(99.8%)🏆🥇| 1
+55b6...cca6           @wuya51          vchs ╠╬╣ 04 Germany               000 / 24040(99.7%)🏆🥇|| 2
+b384...e0d8 ╠╬╣╠╬╣    @pedro00                     United States   (0.0%)005 / 24037(99.7%)🏆🥇| 1
+cf18...7693           @kalvinen        vchs ╠╬╣ 04 Germany               000 / 24034(99.7%)🏆🥇|||| 4
+52d7...e87f           @luckyduder      vchs ╠╬╣ 03 Canada          (0.0%)003 / 24019(99.6%)🏆🥇| 1
+71e5...e2fc           @mrrob0t333      vchs ╠╬╣ 03 Germany         (0.0%)001 / 24016(99.6%)🏆🥇||||||||| 9
+5664...4392           @abed8998        vchs ╠╬╣ 03 Germany         (0.0%)003 / 23995(99.5%)🏆🥇|||||| 6
+0612...807a           @qusuy                       Germany         (0.0%)001 / 23979(99.4%)🏆🥇||| 3
+4d25...92c6           @saturn_0505     vchs ╠╬╣ 03 United States   (0.0%)005 / 23973(99.4%)🏆🥇|||| 4
+fdcf...be9b           @lemonium9962                Singapore       (0.0%)007 / 23966(99.4%)🏆🥇| 1
+aa7b...09b3 ╠╬╣       @0xslipk         vchs ╠╬╣ 03 United States   (0.1%)021 / 23961(99.4%)🏆🥇|||| 4
+d19a...f5c4           @0xslipk                     United States   (0.0%)001 / 23907(99.1%)
+b32e...80dd           @blackgrouse_                Finland         (0.0%)003 / 23890(99.1%)🏆🥇|| 2
+949e...d51c           @bigbubabeast    vchs ╠╬╣ 03 Germany               000 / 23882(99.0%)🏆🥇||||||| 7
+9a71...5c91           @sirouk          vchs ╠╬╣ 05 United States         000 / 23866(99.0%)🏆🥇|| 2
+b8ba...f23d           @dmski1          vchs ╠╬╣ 04 United States         000 / 23863(99.0%)🏆🥇||| 3
+13a6...dddd           @c64michael      vchs ╠╬╣ 04 Germany               000 / 23825(98.8%)🏆🥇||| 3
+95c8...6ae5           @bbk8530         vchs ╠╬╣ 01 Germany         (0.0%)003 / 23823(98.8%)🏆🥇| 1
+e77d...023d           @nourspace       vchs ╠╬╣ 03 Germany         (0.0%)003 / 23794(98.7%)🏆🥇|||| 4
+7441...5aea           @kryptikpanda                Germany         (0.0%)004 / 23792(98.7%)🏆🥇| 1
+8655...6354           @.m0ot                       France                000 / 23781(98.6%)🏆🥇|| 2
+77f2...6f26           @hemulin                     Germany         (0.0%)002 / 23760(98.5%)🏆🥇| 1
+16b3...3444           @judasdaygame                Germany         (0.0%)001 / 23749(98.5%)🏆🥇| 1
+1fff...ecd9           @dboreham        vchs ╠╬╣ 03 United States   (0.1%)030 / 23712(98.3%)🏆🥇| 1
+d578...af37 ╠╬╣       @bbk8530                     South Korea     (0.0%)001 / 23708(98.3%)🏆🥇|| 2
+ca6b...fdf2           @aaronwhite9527              Germany         (0.0%)003 / 23679(98.2%)
+9de5...be48           @zerooooooooo1   vchs ╠╬╣ 04 United States   (0.2%)038 / 23604(97.9%)
+9763...e0ea           @w3sc                        Argentina       (0.0%)010 / 23537(97.6%)🏆🥇|||| 4
+9499...861f           @barmaley8971    vchs ╠╬╣ 09 United States   (0.0%)011 / 23482(97.4%)🏆🥇||| 3
+25c3...e341           @texaseduc8r     vchs ╠╬╣ 04 United States   (0.3%)068 / 23355(96.8%)🏆🥇|| 2
+9a01...7a2e           @coin1111        vchs ╠╬╣ 10 United States   (0.5%)107 / 22983(95.3%)
+4ede...093a ╠╬╣       @ownyrd          vchs ╠╬╣ 04 Germany         (0.1%)015 / 22799(94.5%)🏆🥇||||| 5
+32f2...4b53           @alanyoon        vchs ╠╬╣ 06 South Korea     (0.1%)033 / 22600(93.7%)🏆🥇|||| 4
+ab80...cefe           @alanyoon        vchs ╠╬╣ 03 South Korea     (1.0%)221 / 21092(87.5%)
+c88f...3bb4 ╠╬╣       @.n.u.k.e.       vchs ╠╬╣ 03 Finland         (0.5%)102 / 20939(86.8%)🏆🥇||||| 5
+8186...5105           @ashiiix         vchs ╠╬╣ 03 United States   (2.8%)418 / 15032(62.3%)🏆🥇||| 3
+f485...017e           @slappymcslapper             United States   (2.2%)169 / 7822(32.4%)
+7978...3f54 ╠╬╣╠╬╣    @_easy123                    Finland         (28.1%)247 / 0878(3.6%)🏆🥇|| 2
+--------------------------------
+Active vouch changes in set have been detected.
+
+16b3...3444  07  ------>  00( -7)   @judasdaygame
+77f2...6f26  07  ------>  00( -7)   @hemulin
+7549...a6cd  05  ------>  00( -5)   @bethose
+5664...4392  07  ------>  00( -7)   @abed8998
+fdcf...be9b  05  ------>  00( -5)   @lemonium9962
+d19a...f5c4  09  ------>  00( -9)   @0xslipk
+25c3...e341  11  ------>  00(-11)   @texaseduc8r
+9a01...7a2e  17  ------>  00(-17)   @coin1111
+e77d...023d  10  ------>  00(-10)   @nourspace
+9499...861f  22  ------>  00(-22)   @barmaley8971
+32f2...4b53  10  ------>  00(-10)   @alanyoon
+2fa5...95a0  12  ------>  00(-12)   @johnpaul9185
+f485...017e  08  ------>  00( -8)   @slappymcslapper
+d578...af37  05  ------>  00( -5)   @bbk8530
+13a6...dddd  09  ------>  00( -9)   @c64michael
+
+Vouching or revoking actions in the universe have been detected.
+
+1fff...ecd9 @dboreham        revoked from 71e5...e2fc @mrrob0t333     
+949e...d51c @bigbubabeast    revoked from 71e5...e2fc @mrrob0t333     
+52d7...e87f @luckyduder      revoked from 71e5...e2fc @mrrob0t333     
+13a6...dddd @c64michael      revoked from 71e5...e2fc @mrrob0t333     
+5664...4392 @abed8998        revoked from 71e5...e2fc @mrrob0t333     
+aa7b...09b3 @0xslipk         revoked from 71e5...e2fc @mrrob0t333     
+4ede...093a @ownyrd          revoked from 71e5...e2fc @mrrob0t333     
+8186...5105 @ashiiix         revoked from 71e5...e2fc @mrrob0t333     
+2023...9ae3 @theoneid        revoked from 71e5...e2fc @mrrob0t333     
+4d25...92c6 @saturn_0505     revoked from 71e5...e2fc @mrrob0t333     
+c88f...3bb4 @.n.u.k.e.       revoked from 71e5...e2fc @mrrob0t333     
+9de5...be48 @zerooooooooo1   revoked from 71e5...e2fc @mrrob0t333     
+7549...a6cd @bethose         revoked from 71e5...e2fc @mrrob0t333     
+e77d...023d @nourspace       revoked from 71e5...e2fc @mrrob0t333     
+55b6...cca6 @wuya51          revoked from 71e5...e2fc @mrrob0t333     
+9a01...7a2e @coin1111        revoked from 71e5...e2fc @mrrob0t333     
+25c3...e341 @texaseduc8r     revoked from 71e5...e2fc @mrrob0t333     
+9499...861f @barmaley8971    revoked from 71e5...e2fc @mrrob0t333     
+9a71...5c91 @sirouk          revoked from 71e5...e2fc @mrrob0t333     
+b8ba...f23d @dmski1          revoked from 71e5...e2fc @mrrob0t333     
+cf18...7693 @kalvinen        revoked from 71e5...e2fc @mrrob0t333     
+9909...9e4f @pithecus.astr   revoked from 71e5...e2fc @mrrob0t333     
+32f2...4b53 @alanyoon        revoked from 71e5...e2fc @mrrob0t333     
+71e5...e2fc @mrrob0t333      revoked from 949e...d51c @bigbubabeast   
+1fff...ecd9 @dboreham        revoked from 949e...d51c @bigbubabeast   
+52d7...e87f @luckyduder      revoked from 949e...d51c @bigbubabeast   
+13a6...dddd @c64michael      revoked from 949e...d51c @bigbubabeast   
+5664...4392 @abed8998        revoked from 949e...d51c @bigbubabeast   
+aa7b...09b3 @0xslipk         revoked from 949e...d51c @bigbubabeast   
+4ede...093a @ownyrd          revoked from 949e...d51c @bigbubabeast   
+8186...5105 @ashiiix         revoked from 949e...d51c @bigbubabeast   
+2023...9ae3 @theoneid        revoked from 949e...d51c @bigbubabeast   
+4d25...92c6 @saturn_0505     revoked from 949e...d51c @bigbubabeast   
+c88f...3bb4 @.n.u.k.e.       revoked from 949e...d51c @bigbubabeast   
+9de5...be48 @zerooooooooo1   revoked from 949e...d51c @bigbubabeast   
+7549...a6cd @bethose         revoked from 949e...d51c @bigbubabeast   
+e77d...023d @nourspace       revoked from 949e...d51c @bigbubabeast   
+55b6...cca6 @wuya51          revoked from 949e...d51c @bigbubabeast   
+9a01...7a2e @coin1111        revoked from 949e...d51c @bigbubabeast   
+25c3...e341 @texaseduc8r     revoked from 949e...d51c @bigbubabeast   
+9499...861f @barmaley8971    revoked from 949e...d51c @bigbubabeast   
+9a71...5c91 @sirouk          revoked from 949e...d51c @bigbubabeast   
+b8ba...f23d @dmski1          revoked from 949e...d51c @bigbubabeast   
+cf18...7693 @kalvinen        revoked from 949e...d51c @bigbubabeast   
+9909...9e4f @pithecus.astr   revoked from 949e...d51c @bigbubabeast   
+32f2...4b53 @alanyoon        revoked from 949e...d51c @bigbubabeast   
+71e5...e2fc @mrrob0t333      revoked from 52d7...e87f @luckyduder     
+949e...d51c @bigbubabeast    revoked from 52d7...e87f @luckyduder     
+1fff...ecd9 @dboreham        revoked from 52d7...e87f @luckyduder     
+13a6...dddd @c64michael      revoked from 52d7...e87f @luckyduder     
+5664...4392 @abed8998        revoked from 52d7...e87f @luckyduder     
+aa7b...09b3 @0xslipk         revoked from 52d7...e87f @luckyduder     
+4ede...093a @ownyrd          revoked from 52d7...e87f @luckyduder     
+8186...5105 @ashiiix         revoked from 52d7...e87f @luckyduder     
+2023...9ae3 @theoneid        revoked from 52d7...e87f @luckyduder     
+4d25...92c6 @saturn_0505     revoked from 52d7...e87f @luckyduder     
+c88f...3bb4 @.n.u.k.e.       revoked from 52d7...e87f @luckyduder     
+9de5...be48 @zerooooooooo1   revoked from 52d7...e87f @luckyduder     
+7549...a6cd @bethose         revoked from 52d7...e87f @luckyduder     
+e77d...023d @nourspace       revoked from 52d7...e87f @luckyduder     
+55b6...cca6 @wuya51          revoked from 52d7...e87f @luckyduder     
+9a01...7a2e @coin1111        revoked from 52d7...e87f @luckyduder     
+25c3...e341 @texaseduc8r     revoked from 52d7...e87f @luckyduder     
+9499...861f @barmaley8971    revoked from 52d7...e87f @luckyduder     
+9a71...5c91 @sirouk          revoked from 52d7...e87f @luckyduder     
+cf18...7693 @kalvinen        revoked from 52d7...e87f @luckyduder     
+9909...9e4f @pithecus.astr   revoked from 52d7...e87f @luckyduder     
+32f2...4b53 @alanyoon        revoked from 52d7...e87f @luckyduder     
+2fa5...95a0 @johnpaul9185    revoked from 52d7...e87f @luckyduder     
+ca6b...fdf2 @aaronwhite9527  revoked from 52d7...e87f @luckyduder     
+71e5...e2fc @mrrob0t333      revoked from 13a6...dddd @c64michael     
+949e...d51c @bigbubabeast    revoked from 13a6...dddd @c64michael     
+52d7...e87f @luckyduder      revoked from 13a6...dddd @c64michael     
+1fff...ecd9 @dboreham        revoked from 13a6...dddd @c64michael     
+5664...4392 @abed8998        revoked from 13a6...dddd @c64michael     
+aa7b...09b3 @0xslipk         revoked from 13a6...dddd @c64michael     
+4ede...093a @ownyrd          revoked from 13a6...dddd @c64michael     
+8186...5105 @ashiiix         revoked from 13a6...dddd @c64michael     
+2023...9ae3 @theoneid        revoked from 13a6...dddd @c64michael     
+4d25...92c6 @saturn_0505     revoked from 13a6...dddd @c64michael     
+c88f...3bb4 @.n.u.k.e.       revoked from 13a6...dddd @c64michael     
+9de5...be48 @zerooooooooo1   revoked from 13a6...dddd @c64michael     
+7549...a6cd @bethose         revoked from 13a6...dddd @c64michael     
+e77d...023d @nourspace       revoked from 13a6...dddd @c64michael     
+55b6...cca6 @wuya51          revoked from 13a6...dddd @c64michael     
+9a01...7a2e @coin1111        revoked from 13a6...dddd @c64michael     
+25c3...e341 @texaseduc8r     revoked from 13a6...dddd @c64michael     
+9499...861f @barmaley8971    revoked from 13a6...dddd @c64michael     
+9a71...5c91 @sirouk          revoked from 13a6...dddd @c64michael     
+b8ba...f23d @dmski1          revoked from 13a6...dddd @c64michael     
+cf18...7693 @kalvinen        revoked from 13a6...dddd @c64michael     
+9909...9e4f @pithecus.astr   revoked from 13a6...dddd @c64michael     
+32f2...4b53 @alanyoon        revoked from 13a6...dddd @c64michael     
+0d78...5a1a @ncontrol88      revoked from 13a6...dddd @c64michael     
+e3d0...082a @blackgrouse_    revoked from 13a6...dddd @c64michael     
+f485...017e @slappymcslapper revoked from 13a6...dddd @c64michael     
+7978...3f54 @_easy123        revoked from 13a6...dddd @c64michael     
+b384...e0d8 @pedro00         revoked from 13a6...dddd @c64michael     
+71e5...e2fc @mrrob0t333      revoked from 5664...4392 @abed8998       
+949e...d51c @bigbubabeast    revoked from 5664...4392 @abed8998       
+52d7...e87f @luckyduder      revoked from 5664...4392 @abed8998       
+13a6...dddd @c64michael      revoked from 5664...4392 @abed8998       
+1fff...ecd9 @dboreham        revoked from 5664...4392 @abed8998       
+aa7b...09b3 @0xslipk         revoked from 5664...4392 @abed8998       
+4ede...093a @ownyrd          revoked from 5664...4392 @abed8998       
+8186...5105 @ashiiix         revoked from 5664...4392 @abed8998       
+2023...9ae3 @theoneid        revoked from 5664...4392 @abed8998       
+4d25...92c6 @saturn_0505     revoked from 5664...4392 @abed8998       
+c88f...3bb4 @.n.u.k.e.       revoked from 5664...4392 @abed8998       
+9de5...be48 @zerooooooooo1   revoked from 5664...4392 @abed8998       
+7549...a6cd @bethose         revoked from 5664...4392 @abed8998       
+e77d...023d @nourspace       revoked from 5664...4392 @abed8998       
+55b6...cca6 @wuya51          revoked from 5664...4392 @abed8998       
+9a01...7a2e @coin1111        revoked from 5664...4392 @abed8998       
+25c3...e341 @texaseduc8r     revoked from 5664...4392 @abed8998       
+9499...861f @barmaley8971    revoked from 5664...4392 @abed8998       
+9a71...5c91 @sirouk          revoked from 5664...4392 @abed8998       
+b8ba...f23d @dmski1          revoked from 5664...4392 @abed8998       
+cf18...7693 @kalvinen        revoked from 5664...4392 @abed8998       
+9909...9e4f @pithecus.astr   revoked from 5664...4392 @abed8998       
+32f2...4b53 @alanyoon        revoked from 5664...4392 @abed8998       
+77f2...6f26 @hemulin         revoked from 5664...4392 @abed8998       
+16b3...3444 @judasdaygame    revoked from 5664...4392 @abed8998       
+71e5...e2fc @mrrob0t333      revoked from aa7b...09b3 @0xslipk        
+949e...d51c @bigbubabeast    revoked from aa7b...09b3 @0xslipk        
+52d7...e87f @luckyduder      revoked from aa7b...09b3 @0xslipk        
+13a6...dddd @c64michael      revoked from aa7b...09b3 @0xslipk        
+5664...4392 @abed8998        revoked from aa7b...09b3 @0xslipk        
+1fff...ecd9 @dboreham        revoked from aa7b...09b3 @0xslipk        
+4ede...093a @ownyrd          revoked from aa7b...09b3 @0xslipk        
+8186...5105 @ashiiix         revoked from aa7b...09b3 @0xslipk        
+2023...9ae3 @theoneid        revoked from aa7b...09b3 @0xslipk        
+4d25...92c6 @saturn_0505     revoked from aa7b...09b3 @0xslipk        
+c88f...3bb4 @.n.u.k.e.       revoked from aa7b...09b3 @0xslipk        
+9de5...be48 @zerooooooooo1   revoked from aa7b...09b3 @0xslipk        
+7549...a6cd @bethose         revoked from aa7b...09b3 @0xslipk        
+e77d...023d @nourspace       revoked from aa7b...09b3 @0xslipk        
+55b6...cca6 @wuya51          revoked from aa7b...09b3 @0xslipk        
+9a01...7a2e @coin1111        revoked from aa7b...09b3 @0xslipk        
+25c3...e341 @texaseduc8r     revoked from aa7b...09b3 @0xslipk        
+9499...861f @barmaley8971    revoked from aa7b...09b3 @0xslipk        
+9a71...5c91 @sirouk          revoked from aa7b...09b3 @0xslipk        
+b8ba...f23d @dmski1          revoked from aa7b...09b3 @0xslipk        
+cf18...7693 @kalvinen        revoked from aa7b...09b3 @0xslipk        
+9909...9e4f @pithecus.astr   revoked from aa7b...09b3 @0xslipk        
+b32e...80dd @blackgrouse_    revoked from aa7b...09b3 @0xslipk        
+f210...fd78 @blackgrouse_    revoked from aa7b...09b3 @0xslipk        
+f485...017e @slappymcslapper revoked from aa7b...09b3 @0xslipk        
+32f2...4b53 @alanyoon        revoked from aa7b...09b3 @0xslipk        
+ab80...cefe @alanyoon        revoked from aa7b...09b3 @0xslipk        
+77f2...6f26 @hemulin         revoked from aa7b...09b3 @0xslipk        
+16b3...3444 @judasdaygame    revoked from aa7b...09b3 @0xslipk        
+71e5...e2fc @mrrob0t333      revoked from 4ede...093a @ownyrd         
+949e...d51c @bigbubabeast    revoked from 4ede...093a @ownyrd         
+52d7...e87f @luckyduder      revoked from 4ede...093a @ownyrd         
+13a6...dddd @c64michael      revoked from 4ede...093a @ownyrd         
+5664...4392 @abed8998        revoked from 4ede...093a @ownyrd         
+aa7b...09b3 @0xslipk         revoked from 4ede...093a @ownyrd         
+8186...5105 @ashiiix         revoked from 4ede...093a @ownyrd         
+2023...9ae3 @theoneid        revoked from 4ede...093a @ownyrd         
+4d25...92c6 @saturn_0505     revoked from 4ede...093a @ownyrd         
+9de5...be48 @zerooooooooo1   revoked from 4ede...093a @ownyrd         
+7549...a6cd @bethose         revoked from 4ede...093a @ownyrd         
+e77d...023d @nourspace       revoked from 4ede...093a @ownyrd         
+9a01...7a2e @coin1111        revoked from 4ede...093a @ownyrd         
+25c3...e341 @texaseduc8r     revoked from 4ede...093a @ownyrd         
+9499...861f @barmaley8971    revoked from 4ede...093a @ownyrd         
+cf18...7693 @kalvinen        revoked from 4ede...093a @ownyrd         
+9909...9e4f @pithecus.astr   revoked from 4ede...093a @ownyrd         
+32f2...4b53 @alanyoon        revoked from 4ede...093a @ownyrd         
+6ed9...803a @gabby_91        revoked from 4ede...093a @ownyrd         
+55b6...cca6 @wuya51          revoked from 4ede...093a @ownyrd         
+b8ba...f23d @dmski1          revoked from 4ede...093a @ownyrd         
+0d78...5a1a @ncontrol88      revoked from 4ede...093a @ownyrd         
+71e5...e2fc @mrrob0t333      revoked from 8186...5105 @ashiiix        
+949e...d51c @bigbubabeast    revoked from 8186...5105 @ashiiix        
+52d7...e87f @luckyduder      revoked from 8186...5105 @ashiiix        
+13a6...dddd @c64michael      revoked from 8186...5105 @ashiiix        
+5664...4392 @abed8998        revoked from 8186...5105 @ashiiix        
+aa7b...09b3 @0xslipk         revoked from 8186...5105 @ashiiix        
+4ede...093a @ownyrd          revoked from 8186...5105 @ashiiix        
+1fff...ecd9 @dboreham        revoked from 8186...5105 @ashiiix        
+2023...9ae3 @theoneid        revoked from 8186...5105 @ashiiix        
+4d25...92c6 @saturn_0505     revoked from 8186...5105 @ashiiix        
+c88f...3bb4 @.n.u.k.e.       revoked from 8186...5105 @ashiiix        
+9de5...be48 @zerooooooooo1   revoked from 8186...5105 @ashiiix        
+7549...a6cd @bethose         revoked from 8186...5105 @ashiiix        
+e77d...023d @nourspace       revoked from 8186...5105 @ashiiix        
+55b6...cca6 @wuya51          revoked from 8186...5105 @ashiiix        
+9a01...7a2e @coin1111        revoked from 8186...5105 @ashiiix        
+25c3...e341 @texaseduc8r     revoked from 8186...5105 @ashiiix        
+9499...861f @barmaley8971    revoked from 8186...5105 @ashiiix        
+9a71...5c91 @sirouk          revoked from 8186...5105 @ashiiix        
+cf18...7693 @kalvinen        revoked from 8186...5105 @ashiiix        
+9909...9e4f @pithecus.astr   revoked from 8186...5105 @ashiiix        
+71e5...e2fc @mrrob0t333      revoked from 2023...9ae3 @theoneid       
+949e...d51c @bigbubabeast    revoked from 2023...9ae3 @theoneid       
+52d7...e87f @luckyduder      revoked from 2023...9ae3 @theoneid       
+13a6...dddd @c64michael      revoked from 2023...9ae3 @theoneid       
+5664...4392 @abed8998        revoked from 2023...9ae3 @theoneid       
+aa7b...09b3 @0xslipk         revoked from 2023...9ae3 @theoneid       
+4ede...093a @ownyrd          revoked from 2023...9ae3 @theoneid       
+8186...5105 @ashiiix         revoked from 2023...9ae3 @theoneid       
+1fff...ecd9 @dboreham        revoked from 2023...9ae3 @theoneid       
+4d25...92c6 @saturn_0505     revoked from 2023...9ae3 @theoneid       
+c88f...3bb4 @.n.u.k.e.       revoked from 2023...9ae3 @theoneid       
+9de5...be48 @zerooooooooo1   revoked from 2023...9ae3 @theoneid       
+7549...a6cd @bethose         revoked from 2023...9ae3 @theoneid       
+e77d...023d @nourspace       revoked from 2023...9ae3 @theoneid       
+55b6...cca6 @wuya51          revoked from 2023...9ae3 @theoneid       
+9a01...7a2e @coin1111        revoked from 2023...9ae3 @theoneid       
+25c3...e341 @texaseduc8r     revoked from 2023...9ae3 @theoneid       
+9499...861f @barmaley8971    revoked from 2023...9ae3 @theoneid       
+9a71...5c91 @sirouk          revoked from 2023...9ae3 @theoneid       
+b8ba...f23d @dmski1          revoked from 2023...9ae3 @theoneid       
+cf18...7693 @kalvinen        revoked from 2023...9ae3 @theoneid       
+9909...9e4f @pithecus.astr   revoked from 2023...9ae3 @theoneid       
+32f2...4b53 @alanyoon        revoked from 2023...9ae3 @theoneid       
+0d78...5a1a @ncontrol88      revoked from 2023...9ae3 @theoneid       
+71e5...e2fc @mrrob0t333      revoked from 4d25...92c6 @saturn_0505    
+949e...d51c @bigbubabeast    revoked from 4d25...92c6 @saturn_0505    
+52d7...e87f @luckyduder      revoked from 4d25...92c6 @saturn_0505    
+13a6...dddd @c64michael      revoked from 4d25...92c6 @saturn_0505    
+5664...4392 @abed8998        revoked from 4d25...92c6 @saturn_0505    
+aa7b...09b3 @0xslipk         revoked from 4d25...92c6 @saturn_0505    
+4ede...093a @ownyrd          revoked from 4d25...92c6 @saturn_0505    
+8186...5105 @ashiiix         revoked from 4d25...92c6 @saturn_0505    
+2023...9ae3 @theoneid        revoked from 4d25...92c6 @saturn_0505    
+1fff...ecd9 @dboreham        revoked from 4d25...92c6 @saturn_0505    
+c88f...3bb4 @.n.u.k.e.       revoked from 4d25...92c6 @saturn_0505    
+9de5...be48 @zerooooooooo1   revoked from 4d25...92c6 @saturn_0505    
+7549...a6cd @bethose         revoked from 4d25...92c6 @saturn_0505    
+e77d...023d @nourspace       revoked from 4d25...92c6 @saturn_0505    
+55b6...cca6 @wuya51          revoked from 4d25...92c6 @saturn_0505    
+9a01...7a2e @coin1111        revoked from 4d25...92c6 @saturn_0505    
+25c3...e341 @texaseduc8r     revoked from 4d25...92c6 @saturn_0505    
+9499...861f @barmaley8971    revoked from 4d25...92c6 @saturn_0505    
+9a71...5c91 @sirouk          revoked from 4d25...92c6 @saturn_0505    
+b8ba...f23d @dmski1          revoked from 4d25...92c6 @saturn_0505    
+cf18...7693 @kalvinen        revoked from 4d25...92c6 @saturn_0505    
+9909...9e4f @pithecus.astr   revoked from 4d25...92c6 @saturn_0505    
+32f2...4b53 @alanyoon        revoked from 4d25...92c6 @saturn_0505    
+95c8...6ae5 @bbk8530         revoked from 4d25...92c6 @saturn_0505    
+71e5...e2fc @mrrob0t333      revoked from c88f...3bb4 @.n.u.k.e.      
+949e...d51c @bigbubabeast    revoked from c88f...3bb4 @.n.u.k.e.      
+52d7...e87f @luckyduder      revoked from c88f...3bb4 @.n.u.k.e.      
+13a6...dddd @c64michael      revoked from c88f...3bb4 @.n.u.k.e.      
+5664...4392 @abed8998        revoked from c88f...3bb4 @.n.u.k.e.      
+aa7b...09b3 @0xslipk         revoked from c88f...3bb4 @.n.u.k.e.      
+4ede...093a @ownyrd          revoked from c88f...3bb4 @.n.u.k.e.      
+8186...5105 @ashiiix         revoked from c88f...3bb4 @.n.u.k.e.      
+2023...9ae3 @theoneid        revoked from c88f...3bb4 @.n.u.k.e.      
+4d25...92c6 @saturn_0505     revoked from c88f...3bb4 @.n.u.k.e.      
+1fff...ecd9 @dboreham        revoked from c88f...3bb4 @.n.u.k.e.      
+9de5...be48 @zerooooooooo1   revoked from c88f...3bb4 @.n.u.k.e.      
+7549...a6cd @bethose         revoked from c88f...3bb4 @.n.u.k.e.      
+e77d...023d @nourspace       revoked from c88f...3bb4 @.n.u.k.e.      
+55b6...cca6 @wuya51          revoked from c88f...3bb4 @.n.u.k.e.      
+9a01...7a2e @coin1111        revoked from c88f...3bb4 @.n.u.k.e.      
+25c3...e341 @texaseduc8r     revoked from c88f...3bb4 @.n.u.k.e.      
+9499...861f @barmaley8971    revoked from c88f...3bb4 @.n.u.k.e.      
+9a71...5c91 @sirouk          revoked from c88f...3bb4 @.n.u.k.e.      
+cf18...7693 @kalvinen        revoked from c88f...3bb4 @.n.u.k.e.      
+9909...9e4f @pithecus.astr   revoked from c88f...3bb4 @.n.u.k.e.      
+32f2...4b53 @alanyoon        revoked from c88f...3bb4 @.n.u.k.e.      
+ab80...cefe @alanyoon        revoked from c88f...3bb4 @.n.u.k.e.      
+95c8...6ae5 @bbk8530         revoked from c88f...3bb4 @.n.u.k.e.      
+a737...d8cb @_mr.volt        revoked from c88f...3bb4 @.n.u.k.e.      
+9763...e0ea @w3sc            revoked from c88f...3bb4 @.n.u.k.e.      
+2fa5...95a0 @johnpaul9185    revoked from c88f...3bb4 @.n.u.k.e.      
+ca6b...fdf2 @aaronwhite9527  revoked from c88f...3bb4 @.n.u.k.e.      
+d19a...f5c4 @0xslipk         revoked from c88f...3bb4 @.n.u.k.e.      
+71e5...e2fc @mrrob0t333      revoked from 9de5...be48 @zerooooooooo1  
+949e...d51c @bigbubabeast    revoked from 9de5...be48 @zerooooooooo1  
+52d7...e87f @luckyduder      revoked from 9de5...be48 @zerooooooooo1  
+13a6...dddd @c64michael      revoked from 9de5...be48 @zerooooooooo1  
+5664...4392 @abed8998        revoked from 9de5...be48 @zerooooooooo1  
+aa7b...09b3 @0xslipk         revoked from 9de5...be48 @zerooooooooo1  
+4ede...093a @ownyrd          revoked from 9de5...be48 @zerooooooooo1  
+8186...5105 @ashiiix         revoked from 9de5...be48 @zerooooooooo1  
+2023...9ae3 @theoneid        revoked from 9de5...be48 @zerooooooooo1  
+4d25...92c6 @saturn_0505     revoked from 9de5...be48 @zerooooooooo1  
+c88f...3bb4 @.n.u.k.e.       revoked from 9de5...be48 @zerooooooooo1  
+1fff...ecd9 @dboreham        revoked from 9de5...be48 @zerooooooooo1  
+7549...a6cd @bethose         revoked from 9de5...be48 @zerooooooooo1  
+e77d...023d @nourspace       revoked from 9de5...be48 @zerooooooooo1  
+55b6...cca6 @wuya51          revoked from 9de5...be48 @zerooooooooo1  
+9a01...7a2e @coin1111        revoked from 9de5...be48 @zerooooooooo1  
+25c3...e341 @texaseduc8r     revoked from 9de5...be48 @zerooooooooo1  
+9499...861f @barmaley8971    revoked from 9de5...be48 @zerooooooooo1  
+9a71...5c91 @sirouk          revoked from 9de5...be48 @zerooooooooo1  
+cf18...7693 @kalvinen        revoked from 9de5...be48 @zerooooooooo1  
+9909...9e4f @pithecus.astr   revoked from 9de5...be48 @zerooooooooo1  
+32f2...4b53 @alanyoon        revoked from 9de5...be48 @zerooooooooo1  
+ab80...cefe @alanyoon        revoked from 9de5...be48 @zerooooooooo1  
+a737...d8cb @_mr.volt        revoked from 9de5...be48 @zerooooooooo1  
+71e5...e2fc @mrrob0t333      revoked from 7549...a6cd @bethose        
+949e...d51c @bigbubabeast    revoked from 7549...a6cd @bethose        
+52d7...e87f @luckyduder      revoked from 7549...a6cd @bethose        
+13a6...dddd @c64michael      revoked from 7549...a6cd @bethose        
+5664...4392 @abed8998        revoked from 7549...a6cd @bethose        
+aa7b...09b3 @0xslipk         revoked from 7549...a6cd @bethose        
+4ede...093a @ownyrd          revoked from 7549...a6cd @bethose        
+8186...5105 @ashiiix         revoked from 7549...a6cd @bethose        
+2023...9ae3 @theoneid        revoked from 7549...a6cd @bethose        
+4d25...92c6 @saturn_0505     revoked from 7549...a6cd @bethose        
+c88f...3bb4 @.n.u.k.e.       revoked from 7549...a6cd @bethose        
+9de5...be48 @zerooooooooo1   revoked from 7549...a6cd @bethose        
+1fff...ecd9 @dboreham        revoked from 7549...a6cd @bethose        
+e77d...023d @nourspace       revoked from 7549...a6cd @bethose        
+55b6...cca6 @wuya51          revoked from 7549...a6cd @bethose        
+9a01...7a2e @coin1111        revoked from 7549...a6cd @bethose        
+25c3...e341 @texaseduc8r     revoked from 7549...a6cd @bethose        
+9499...861f @barmaley8971    revoked from 7549...a6cd @bethose        
+9a71...5c91 @sirouk          revoked from 7549...a6cd @bethose        
+b8ba...f23d @dmski1          revoked from 7549...a6cd @bethose        
+cf18...7693 @kalvinen        revoked from 7549...a6cd @bethose        
+9909...9e4f @pithecus.astr   revoked from 7549...a6cd @bethose        
+32f2...4b53 @alanyoon        revoked from 7549...a6cd @bethose        
+ab80...cefe @alanyoon        revoked from 7549...a6cd @bethose        
+71e5...e2fc @mrrob0t333      revoked from e77d...023d @nourspace      
+949e...d51c @bigbubabeast    revoked from e77d...023d @nourspace      
+52d7...e87f @luckyduder      revoked from e77d...023d @nourspace      
+13a6...dddd @c64michael      revoked from e77d...023d @nourspace      
+5664...4392 @abed8998        revoked from e77d...023d @nourspace      
+aa7b...09b3 @0xslipk         revoked from e77d...023d @nourspace      
+4ede...093a @ownyrd          revoked from e77d...023d @nourspace      
+8186...5105 @ashiiix         revoked from e77d...023d @nourspace      
+2023...9ae3 @theoneid        revoked from e77d...023d @nourspace      
+4d25...92c6 @saturn_0505     revoked from e77d...023d @nourspace      
+c88f...3bb4 @.n.u.k.e.       revoked from e77d...023d @nourspace      
+9de5...be48 @zerooooooooo1   revoked from e77d...023d @nourspace      
+7549...a6cd @bethose         revoked from e77d...023d @nourspace      
+1fff...ecd9 @dboreham        revoked from e77d...023d @nourspace      
+55b6...cca6 @wuya51          revoked from e77d...023d @nourspace      
+9a01...7a2e @coin1111        revoked from e77d...023d @nourspace      
+25c3...e341 @texaseduc8r     revoked from e77d...023d @nourspace      
+9499...861f @barmaley8971    revoked from e77d...023d @nourspace      
+9a71...5c91 @sirouk          revoked from e77d...023d @nourspace      
+b8ba...f23d @dmski1          revoked from e77d...023d @nourspace      
+cf18...7693 @kalvinen        revoked from e77d...023d @nourspace      
+9909...9e4f @pithecus.astr   revoked from e77d...023d @nourspace      
+32f2...4b53 @alanyoon        revoked from e77d...023d @nourspace      
+ab80...cefe @alanyoon        revoked from e77d...023d @nourspace      
+77f2...6f26 @hemulin         revoked from e77d...023d @nourspace      
+16b3...3444 @judasdaygame    revoked from e77d...023d @nourspace      
+71e5...e2fc @mrrob0t333      revoked from 55b6...cca6 @wuya51         
+949e...d51c @bigbubabeast    revoked from 55b6...cca6 @wuya51         
+52d7...e87f @luckyduder      revoked from 55b6...cca6 @wuya51         
+13a6...dddd @c64michael      revoked from 55b6...cca6 @wuya51         
+5664...4392 @abed8998        revoked from 55b6...cca6 @wuya51         
+aa7b...09b3 @0xslipk         revoked from 55b6...cca6 @wuya51         
+4ede...093a @ownyrd          revoked from 55b6...cca6 @wuya51         
+8186...5105 @ashiiix         revoked from 55b6...cca6 @wuya51         
+2023...9ae3 @theoneid        revoked from 55b6...cca6 @wuya51         
+4d25...92c6 @saturn_0505     revoked from 55b6...cca6 @wuya51         
+c88f...3bb4 @.n.u.k.e.       revoked from 55b6...cca6 @wuya51         
+9de5...be48 @zerooooooooo1   revoked from 55b6...cca6 @wuya51         
+7549...a6cd @bethose         revoked from 55b6...cca6 @wuya51         
+e77d...023d @nourspace       revoked from 55b6...cca6 @wuya51         
+1fff...ecd9 @dboreham        revoked from 55b6...cca6 @wuya51         
+9a01...7a2e @coin1111        revoked from 55b6...cca6 @wuya51         
+25c3...e341 @texaseduc8r     revoked from 55b6...cca6 @wuya51         
+9499...861f @barmaley8971    revoked from 55b6...cca6 @wuya51         
+9a71...5c91 @sirouk          revoked from 55b6...cca6 @wuya51         
+cf18...7693 @kalvinen        revoked from 55b6...cca6 @wuya51         
+9909...9e4f @pithecus.astr   revoked from 55b6...cca6 @wuya51         
+32f2...4b53 @alanyoon        revoked from 55b6...cca6 @wuya51         
+95c8...6ae5 @bbk8530         revoked from 55b6...cca6 @wuya51         
+ab80...cefe @alanyoon        revoked from 55b6...cca6 @wuya51         
+2fa5...95a0 @johnpaul9185    revoked from 55b6...cca6 @wuya51         
+71e5...e2fc @mrrob0t333      revoked from 9a01...7a2e @coin1111       
+949e...d51c @bigbubabeast    revoked from 9a01...7a2e @coin1111       
+52d7...e87f @luckyduder      revoked from 9a01...7a2e @coin1111       
+13a6...dddd @c64michael      revoked from 9a01...7a2e @coin1111       
+5664...4392 @abed8998        revoked from 9a01...7a2e @coin1111       
+aa7b...09b3 @0xslipk         revoked from 9a01...7a2e @coin1111       
+4ede...093a @ownyrd          revoked from 9a01...7a2e @coin1111       
+8186...5105 @ashiiix         revoked from 9a01...7a2e @coin1111       
+2023...9ae3 @theoneid        revoked from 9a01...7a2e @coin1111       
+4d25...92c6 @saturn_0505     revoked from 9a01...7a2e @coin1111       
+c88f...3bb4 @.n.u.k.e.       revoked from 9a01...7a2e @coin1111       
+9de5...be48 @zerooooooooo1   revoked from 9a01...7a2e @coin1111       
+7549...a6cd @bethose         revoked from 9a01...7a2e @coin1111       
+e77d...023d @nourspace       revoked from 9a01...7a2e @coin1111       
+55b6...cca6 @wuya51          revoked from 9a01...7a2e @coin1111       
+1fff...ecd9 @dboreham        revoked from 9a01...7a2e @coin1111       
+25c3...e341 @texaseduc8r     revoked from 9a01...7a2e @coin1111       
+9499...861f @barmaley8971    revoked from 9a01...7a2e @coin1111       
+9a71...5c91 @sirouk          revoked from 9a01...7a2e @coin1111       
+b8ba...f23d @dmski1          revoked from 9a01...7a2e @coin1111       
+cf18...7693 @kalvinen        revoked from 9a01...7a2e @coin1111       
+9909...9e4f @pithecus.astr   revoked from 9a01...7a2e @coin1111       
+32f2...4b53 @alanyoon        revoked from 9a01...7a2e @coin1111       
+ab80...cefe @alanyoon        revoked from 9a01...7a2e @coin1111       
+7823...666f @dung.ngo        revoked from 9a01...7a2e @coin1111       
+665e...5863 @dlqsoftware     revoked from 9a01...7a2e @coin1111       
+d578...af37 @bbk8530         revoked from 9a01...7a2e @coin1111       
+fdcf...be9b @lemonium9962    revoked from 9a01...7a2e @coin1111       
+d1cc...40a8 @brakod          revoked from 9a01...7a2e @coin1111       
+f210...fd78 @blackgrouse_    revoked from 9a01...7a2e @coin1111       
+b32e...80dd @blackgrouse_    revoked from 9a01...7a2e @coin1111       
+2fa5...95a0 @johnpaul9185    revoked from 9a01...7a2e @coin1111       
+0612...807a @qusuy           revoked from 9a01...7a2e @coin1111       
+71e5...e2fc @mrrob0t333      revoked from 25c3...e341 @texaseduc8r    
+949e...d51c @bigbubabeast    revoked from 25c3...e341 @texaseduc8r    
+52d7...e87f @luckyduder      revoked from 25c3...e341 @texaseduc8r    
+13a6...dddd @c64michael      revoked from 25c3...e341 @texaseduc8r    
+5664...4392 @abed8998        revoked from 25c3...e341 @texaseduc8r    
+aa7b...09b3 @0xslipk         revoked from 25c3...e341 @texaseduc8r    
+4ede...093a @ownyrd          revoked from 25c3...e341 @texaseduc8r    
+8186...5105 @ashiiix         revoked from 25c3...e341 @texaseduc8r    
+2023...9ae3 @theoneid        revoked from 25c3...e341 @texaseduc8r    
+4d25...92c6 @saturn_0505     revoked from 25c3...e341 @texaseduc8r    
+c88f...3bb4 @.n.u.k.e.       revoked from 25c3...e341 @texaseduc8r    
+9de5...be48 @zerooooooooo1   revoked from 25c3...e341 @texaseduc8r    
+7549...a6cd @bethose         revoked from 25c3...e341 @texaseduc8r    
+e77d...023d @nourspace       revoked from 25c3...e341 @texaseduc8r    
+55b6...cca6 @wuya51          revoked from 25c3...e341 @texaseduc8r    
+9a01...7a2e @coin1111        revoked from 25c3...e341 @texaseduc8r    
+1fff...ecd9 @dboreham        revoked from 25c3...e341 @texaseduc8r    
+9499...861f @barmaley8971    revoked from 25c3...e341 @texaseduc8r    
+9a71...5c91 @sirouk          revoked from 25c3...e341 @texaseduc8r    
+cf18...7693 @kalvinen        revoked from 25c3...e341 @texaseduc8r    
+9909...9e4f @pithecus.astr   revoked from 25c3...e341 @texaseduc8r    
+32f2...4b53 @alanyoon        revoked from 25c3...e341 @texaseduc8r    
+0d78...5a1a @ncontrol88      revoked from 25c3...e341 @texaseduc8r    
+ab80...cefe @alanyoon        revoked from 25c3...e341 @texaseduc8r    
+aaa0...529a @borkd22         revoked from 25c3...e341 @texaseduc8r    
+95c8...6ae5 @bbk8530         revoked from 25c3...e341 @texaseduc8r    
+2fa5...95a0 @johnpaul9185    revoked from 25c3...e341 @texaseduc8r    
+16b3...3444 @judasdaygame    revoked from 25c3...e341 @texaseduc8r    
+77f2...6f26 @hemulin         revoked from 25c3...e341 @texaseduc8r    
+d19a...f5c4 @0xslipk         revoked from 25c3...e341 @texaseduc8r    
+71e5...e2fc @mrrob0t333      revoked from 9499...861f @barmaley8971   
+949e...d51c @bigbubabeast    revoked from 9499...861f @barmaley8971   
+52d7...e87f @luckyduder      revoked from 9499...861f @barmaley8971   
+13a6...dddd @c64michael      revoked from 9499...861f @barmaley8971   
+5664...4392 @abed8998        revoked from 9499...861f @barmaley8971   
+aa7b...09b3 @0xslipk         revoked from 9499...861f @barmaley8971   
+4ede...093a @ownyrd          revoked from 9499...861f @barmaley8971   
+8186...5105 @ashiiix         revoked from 9499...861f @barmaley8971   
+2023...9ae3 @theoneid        revoked from 9499...861f @barmaley8971   
+4d25...92c6 @saturn_0505     revoked from 9499...861f @barmaley8971   
+c88f...3bb4 @.n.u.k.e.       revoked from 9499...861f @barmaley8971   
+9de5...be48 @zerooooooooo1   revoked from 9499...861f @barmaley8971   
+7549...a6cd @bethose         revoked from 9499...861f @barmaley8971   
+e77d...023d @nourspace       revoked from 9499...861f @barmaley8971   
+55b6...cca6 @wuya51          revoked from 9499...861f @barmaley8971   
+9a01...7a2e @coin1111        revoked from 9499...861f @barmaley8971   
+25c3...e341 @texaseduc8r     revoked from 9499...861f @barmaley8971   
+1fff...ecd9 @dboreham        revoked from 9499...861f @barmaley8971   
+9a71...5c91 @sirouk          revoked from 9499...861f @barmaley8971   
+cf18...7693 @kalvinen        revoked from 9499...861f @barmaley8971   
+9909...9e4f @pithecus.astr   revoked from 9499...861f @barmaley8971   
+32f2...4b53 @alanyoon        revoked from 9499...861f @barmaley8971   
+0d78...5a1a @ncontrol88      revoked from 9499...861f @barmaley8971   
+7823...666f @dung.ngo        revoked from 9499...861f @barmaley8971   
+665e...5863 @dlqsoftware     revoked from 9499...861f @barmaley8971   
+d578...af37 @bbk8530         revoked from 9499...861f @barmaley8971   
+aaa0...529a @borkd22         revoked from 9499...861f @barmaley8971   
+fdcf...be9b @lemonium9962    revoked from 9499...861f @barmaley8971   
+95c8...6ae5 @bbk8530         revoked from 9499...861f @barmaley8971   
+f210...fd78 @blackgrouse_    revoked from 9499...861f @barmaley8971   
+b749...5f68 @chris_b2002     revoked from 9499...861f @barmaley8971   
+b8ba...f23d @dmski1          revoked from 9499...861f @barmaley8971   
+b32e...80dd @blackgrouse_    revoked from 9499...861f @barmaley8971   
+2fa5...95a0 @johnpaul9185    revoked from 9499...861f @barmaley8971   
+16b3...3444 @judasdaygame    revoked from 9499...861f @barmaley8971   
+77f2...6f26 @hemulin         revoked from 9499...861f @barmaley8971   
+d19a...f5c4 @0xslipk         revoked from 9499...861f @barmaley8971   
+0612...807a @qusuy           revoked from 9499...861f @barmaley8971   
+71e5...e2fc @mrrob0t333      revoked from 9a71...5c91 @sirouk         
+949e...d51c @bigbubabeast    revoked from 9a71...5c91 @sirouk         
+52d7...e87f @luckyduder      revoked from 9a71...5c91 @sirouk         
+13a6...dddd @c64michael      revoked from 9a71...5c91 @sirouk         
+5664...4392 @abed8998        revoked from 9a71...5c91 @sirouk         
+aa7b...09b3 @0xslipk         revoked from 9a71...5c91 @sirouk         
+4ede...093a @ownyrd          revoked from 9a71...5c91 @sirouk         
+8186...5105 @ashiiix         revoked from 9a71...5c91 @sirouk         
+2023...9ae3 @theoneid        revoked from 9a71...5c91 @sirouk         
+4d25...92c6 @saturn_0505     revoked from 9a71...5c91 @sirouk         
+c88f...3bb4 @.n.u.k.e.       revoked from 9a71...5c91 @sirouk         
+9de5...be48 @zerooooooooo1   revoked from 9a71...5c91 @sirouk         
+7549...a6cd @bethose         revoked from 9a71...5c91 @sirouk         
+e77d...023d @nourspace       revoked from 9a71...5c91 @sirouk         
+55b6...cca6 @wuya51          revoked from 9a71...5c91 @sirouk         
+9a01...7a2e @coin1111        revoked from 9a71...5c91 @sirouk         
+25c3...e341 @texaseduc8r     revoked from 9a71...5c91 @sirouk         
+9499...861f @barmaley8971    revoked from 9a71...5c91 @sirouk         
+1fff...ecd9 @dboreham        revoked from 9a71...5c91 @sirouk         
+cf18...7693 @kalvinen        revoked from 9a71...5c91 @sirouk         
+9909...9e4f @pithecus.astr   revoked from 9a71...5c91 @sirouk         
+32f2...4b53 @alanyoon        revoked from 9a71...5c91 @sirouk         
+f210...fd78 @blackgrouse_    revoked from 9a71...5c91 @sirouk         
+b32e...80dd @blackgrouse_    revoked from 9a71...5c91 @sirouk         
+b8ba...f23d @dmski1          revoked from 9a71...5c91 @sirouk         
+fdcf...be9b @lemonium9962    revoked from 9a71...5c91 @sirouk         
+ab80...cefe @alanyoon        revoked from 9a71...5c91 @sirouk         
+f485...017e @slappymcslapper revoked from 9a71...5c91 @sirouk         
+e3d0...082a @blackgrouse_    revoked from 9a71...5c91 @sirouk         
+71e5...e2fc @mrrob0t333      revoked from b8ba...f23d @dmski1         
+949e...d51c @bigbubabeast    revoked from b8ba...f23d @dmski1         
+52d7...e87f @luckyduder      revoked from b8ba...f23d @dmski1         
+13a6...dddd @c64michael      revoked from b8ba...f23d @dmski1         
+5664...4392 @abed8998        revoked from b8ba...f23d @dmski1         
+aa7b...09b3 @0xslipk         revoked from b8ba...f23d @dmski1         
+4ede...093a @ownyrd          revoked from b8ba...f23d @dmski1         
+8186...5105 @ashiiix         revoked from b8ba...f23d @dmski1         
+2023...9ae3 @theoneid        revoked from b8ba...f23d @dmski1         
+4d25...92c6 @saturn_0505     revoked from b8ba...f23d @dmski1         
+c88f...3bb4 @.n.u.k.e.       revoked from b8ba...f23d @dmski1         
+9de5...be48 @zerooooooooo1   revoked from b8ba...f23d @dmski1         
+7549...a6cd @bethose         revoked from b8ba...f23d @dmski1         
+e77d...023d @nourspace       revoked from b8ba...f23d @dmski1         
+55b6...cca6 @wuya51          revoked from b8ba...f23d @dmski1         
+9a01...7a2e @coin1111        revoked from b8ba...f23d @dmski1         
+25c3...e341 @texaseduc8r     revoked from b8ba...f23d @dmski1         
+9499...861f @barmaley8971    revoked from b8ba...f23d @dmski1         
+9a71...5c91 @sirouk          revoked from b8ba...f23d @dmski1         
+1fff...ecd9 @dboreham        revoked from b8ba...f23d @dmski1         
+cf18...7693 @kalvinen        revoked from b8ba...f23d @dmski1         
+9909...9e4f @pithecus.astr   revoked from b8ba...f23d @dmski1         
+32f2...4b53 @alanyoon        revoked from b8ba...f23d @dmski1         
+ab80...cefe @alanyoon        revoked from b8ba...f23d @dmski1         
+2fa5...95a0 @johnpaul9185    revoked from b8ba...f23d @dmski1         
+b5b5...3834 @ricoflan        revoked from b8ba...f23d @dmski1         
+71e5...e2fc @mrrob0t333      revoked from cf18...7693 @kalvinen       
+949e...d51c @bigbubabeast    revoked from cf18...7693 @kalvinen       
+52d7...e87f @luckyduder      revoked from cf18...7693 @kalvinen       
+13a6...dddd @c64michael      revoked from cf18...7693 @kalvinen       
+5664...4392 @abed8998        revoked from cf18...7693 @kalvinen       
+aa7b...09b3 @0xslipk         revoked from cf18...7693 @kalvinen       
+4ede...093a @ownyrd          revoked from cf18...7693 @kalvinen       
+8186...5105 @ashiiix         revoked from cf18...7693 @kalvinen       
+2023...9ae3 @theoneid        revoked from cf18...7693 @kalvinen       
+4d25...92c6 @saturn_0505     revoked from cf18...7693 @kalvinen       
+c88f...3bb4 @.n.u.k.e.       revoked from cf18...7693 @kalvinen       
+9de5...be48 @zerooooooooo1   revoked from cf18...7693 @kalvinen       
+7549...a6cd @bethose         revoked from cf18...7693 @kalvinen       
+e77d...023d @nourspace       revoked from cf18...7693 @kalvinen       
+55b6...cca6 @wuya51          revoked from cf18...7693 @kalvinen       
+9a01...7a2e @coin1111        revoked from cf18...7693 @kalvinen       
+25c3...e341 @texaseduc8r     revoked from cf18...7693 @kalvinen       
+9499...861f @barmaley8971    revoked from cf18...7693 @kalvinen       
+9a71...5c91 @sirouk          revoked from cf18...7693 @kalvinen       
+b8ba...f23d @dmski1          revoked from cf18...7693 @kalvinen       
+1fff...ecd9 @dboreham        revoked from cf18...7693 @kalvinen       
+9909...9e4f @pithecus.astr   revoked from cf18...7693 @kalvinen       
+32f2...4b53 @alanyoon        revoked from cf18...7693 @kalvinen       
+ab80...cefe @alanyoon        revoked from cf18...7693 @kalvinen       
+d578...af37 @bbk8530         revoked from cf18...7693 @kalvinen       
+8655...6354 @.m0ot           revoked from cf18...7693 @kalvinen       
+71e5...e2fc @mrrob0t333      revoked from 9909...9e4f @pithecus.astr  
+949e...d51c @bigbubabeast    revoked from 9909...9e4f @pithecus.astr  
+52d7...e87f @luckyduder      revoked from 9909...9e4f @pithecus.astr  
+13a6...dddd @c64michael      revoked from 9909...9e4f @pithecus.astr  
+5664...4392 @abed8998        revoked from 9909...9e4f @pithecus.astr  
+aa7b...09b3 @0xslipk         revoked from 9909...9e4f @pithecus.astr  
+4ede...093a @ownyrd          revoked from 9909...9e4f @pithecus.astr  
+8186...5105 @ashiiix         revoked from 9909...9e4f @pithecus.astr  
+2023...9ae3 @theoneid        revoked from 9909...9e4f @pithecus.astr  
+4d25...92c6 @saturn_0505     revoked from 9909...9e4f @pithecus.astr  
+c88f...3bb4 @.n.u.k.e.       revoked from 9909...9e4f @pithecus.astr  
+9de5...be48 @zerooooooooo1   revoked from 9909...9e4f @pithecus.astr  
+7549...a6cd @bethose         revoked from 9909...9e4f @pithecus.astr  
+e77d...023d @nourspace       revoked from 9909...9e4f @pithecus.astr  
+55b6...cca6 @wuya51          revoked from 9909...9e4f @pithecus.astr  
+9a01...7a2e @coin1111        revoked from 9909...9e4f @pithecus.astr  
+25c3...e341 @texaseduc8r     revoked from 9909...9e4f @pithecus.astr  
+9499...861f @barmaley8971    revoked from 9909...9e4f @pithecus.astr  
+9a71...5c91 @sirouk          revoked from 9909...9e4f @pithecus.astr  
+b8ba...f23d @dmski1          revoked from 9909...9e4f @pithecus.astr  
+cf18...7693 @kalvinen        revoked from 9909...9e4f @pithecus.astr  
+1fff...ecd9 @dboreham        revoked from 9909...9e4f @pithecus.astr  
+32f2...4b53 @alanyoon        revoked from 9909...9e4f @pithecus.astr  
+71e5...e2fc @mrrob0t333      revoked from 32f2...4b53 @alanyoon       
+949e...d51c @bigbubabeast    revoked from 32f2...4b53 @alanyoon       
+52d7...e87f @luckyduder      revoked from 32f2...4b53 @alanyoon       
+13a6...dddd @c64michael      revoked from 32f2...4b53 @alanyoon       
+5664...4392 @abed8998        revoked from 32f2...4b53 @alanyoon       
+aa7b...09b3 @0xslipk         revoked from 32f2...4b53 @alanyoon       
+4ede...093a @ownyrd          revoked from 32f2...4b53 @alanyoon       
+8186...5105 @ashiiix         revoked from 32f2...4b53 @alanyoon       
+2023...9ae3 @theoneid        revoked from 32f2...4b53 @alanyoon       
+4d25...92c6 @saturn_0505     revoked from 32f2...4b53 @alanyoon       
+c88f...3bb4 @.n.u.k.e.       revoked from 32f2...4b53 @alanyoon       
+9de5...be48 @zerooooooooo1   revoked from 32f2...4b53 @alanyoon       
+7549...a6cd @bethose         revoked from 32f2...4b53 @alanyoon       
+e77d...023d @nourspace       revoked from 32f2...4b53 @alanyoon       
+55b6...cca6 @wuya51          revoked from 32f2...4b53 @alanyoon       
+9a01...7a2e @coin1111        revoked from 32f2...4b53 @alanyoon       
+25c3...e341 @texaseduc8r     revoked from 32f2...4b53 @alanyoon       
+9499...861f @barmaley8971    revoked from 32f2...4b53 @alanyoon       
+9a71...5c91 @sirouk          revoked from 32f2...4b53 @alanyoon       
+b8ba...f23d @dmski1          revoked from 32f2...4b53 @alanyoon       
+cf18...7693 @kalvinen        revoked from 32f2...4b53 @alanyoon       
+9909...9e4f @pithecus.astr   revoked from 32f2...4b53 @alanyoon       
+1fff...ecd9 @dboreham        revoked from 32f2...4b53 @alanyoon       
+0d78...5a1a @ncontrol88      revoked from 32f2...4b53 @alanyoon       
+d578...af37 @bbk8530         revoked from 32f2...4b53 @alanyoon       
+e3d0...082a @blackgrouse_    revoked from 32f2...4b53 @alanyoon       
+0612...807a @qusuy           revoked from 32f2...4b53 @alanyoon       
+71e5...e2fc @mrrob0t333      revoked from 1fff...ecd9 @dboreham       
+949e...d51c @bigbubabeast    revoked from 1fff...ecd9 @dboreham       
+52d7...e87f @luckyduder      revoked from 1fff...ecd9 @dboreham       
+13a6...dddd @c64michael      revoked from 1fff...ecd9 @dboreham       
+5664...4392 @abed8998        revoked from 1fff...ecd9 @dboreham       
+aa7b...09b3 @0xslipk         revoked from 1fff...ecd9 @dboreham       
+4ede...093a @ownyrd          revoked from 1fff...ecd9 @dboreham       
+8186...5105 @ashiiix         revoked from 1fff...ecd9 @dboreham       
+2023...9ae3 @theoneid        revoked from 1fff...ecd9 @dboreham       
+4d25...92c6 @saturn_0505     revoked from 1fff...ecd9 @dboreham       
+c88f...3bb4 @.n.u.k.e.       revoked from 1fff...ecd9 @dboreham       
+9de5...be48 @zerooooooooo1   revoked from 1fff...ecd9 @dboreham       
+7549...a6cd @bethose         revoked from 1fff...ecd9 @dboreham       
+e77d...023d @nourspace       revoked from 1fff...ecd9 @dboreham       
+55b6...cca6 @wuya51          revoked from 1fff...ecd9 @dboreham       
+9a01...7a2e @coin1111        revoked from 1fff...ecd9 @dboreham       
+25c3...e341 @texaseduc8r     revoked from 1fff...ecd9 @dboreham       
+9499...861f @barmaley8971    revoked from 1fff...ecd9 @dboreham       
+9a71...5c91 @sirouk          revoked from 1fff...ecd9 @dboreham       
+b8ba...f23d @dmski1          revoked from 1fff...ecd9 @dboreham       
+cf18...7693 @kalvinen        revoked from 1fff...ecd9 @dboreham       
+9909...9e4f @pithecus.astr   revoked from 1fff...ecd9 @dboreham       
+6bb0...118f @allanwu0101     revoked from 1fff...ecd9 @dboreham       
+e3d0...082a @blackgrouse_    revoked from 1fff...ecd9 @dboreham       
+f485...017e @slappymcslapper revoked from 1fff...ecd9 @dboreham       
+9a71...5c91 @sirouk          revoked from b5b5...3834 @ricoflan       
+32f2...4b53 @alanyoon        revoked from b5b5...3834 @ricoflan       
+71e5...e2fc @mrrob0t333      revoked from b5b5...3834 @ricoflan       
+9de5...be48 @zerooooooooo1   revoked from b5b5...3834 @ricoflan       
+55b6...cca6 @wuya51          revoked from b5b5...3834 @ricoflan       
+aa7b...09b3 @0xslipk         revoked from b5b5...3834 @ricoflan       
+c88f...3bb4 @.n.u.k.e.       revoked from b5b5...3834 @ricoflan       
+7549...a6cd @bethose         revoked from b5b5...3834 @ricoflan       
+25c3...e341 @texaseduc8r     revoked from b5b5...3834 @ricoflan       
+9499...861f @barmaley8971    revoked from b5b5...3834 @ricoflan       
+9a01...7a2e @coin1111        revoked from b5b5...3834 @ricoflan       
+e3d0...082a @blackgrouse_    revoked from b5b5...3834 @ricoflan       
+b32e...80dd @blackgrouse_    revoked from b5b5...3834 @ricoflan       
+6bb0...118f @allanwu0101     revoked from 7823...666f @dung.ngo       
+a737...d8cb @_mr.volt        revoked from 7823...666f @dung.ngo       
+1939...7d34 @vistli.         revoked from 7823...666f @dung.ngo       
+9763...e0ea @w3sc            revoked from 7823...666f @dung.ngo       
+aa7b...09b3 @0xslipk         revoked from b384...e0d8 @pedro00        
+9a71...5c91 @sirouk          revoked from b384...e0d8 @pedro00        
+9499...861f @barmaley8971    revoked from b384...e0d8 @pedro00        
+9a01...7a2e @coin1111        revoked from b384...e0d8 @pedro00        
+77f2...6f26 @hemulin         revoked from b384...e0d8 @pedro00        
+13a6...dddd @c64michael      revoked from b384...e0d8 @pedro00        
+c88f...3bb4 @.n.u.k.e.       revoked from ab80...cefe @alanyoon       
+9de5...be48 @zerooooooooo1   revoked from ab80...cefe @alanyoon       
+cf18...7693 @kalvinen        revoked from ab80...cefe @alanyoon       
+13a6...dddd @c64michael      revoked from ab80...cefe @alanyoon       
+4ede...093a @ownyrd          revoked from ab80...cefe @alanyoon       
+7978...3f54 @_easy123        revoked from ab80...cefe @alanyoon       
+0d78...5a1a @ncontrol88      revoked from ab80...cefe @alanyoon       
+55b6...cca6 @wuya51          revoked from ab80...cefe @alanyoon       
+9a71...5c91 @sirouk          revoked from ab80...cefe @alanyoon       
+25c3...e341 @texaseduc8r     revoked from ab80...cefe @alanyoon       
+9a01...7a2e @coin1111        revoked from ab80...cefe @alanyoon       
+7823...666f @dung.ngo        revoked from ab80...cefe @alanyoon       
+b8ba...f23d @dmski1          revoked from ab80...cefe @alanyoon       
+8186...5105 @ashiiix         revoked from ab80...cefe @alanyoon       
+665e...5863 @dlqsoftware     revoked from ab80...cefe @alanyoon       
+b32e...80dd @blackgrouse_    revoked from ab80...cefe @alanyoon       
+f210...fd78 @blackgrouse_    revoked from ab80...cefe @alanyoon       
+aa7b...09b3 @0xslipk         revoked from ab80...cefe @alanyoon       
+e3d0...082a @blackgrouse_    revoked from ab80...cefe @alanyoon       
+0612...807a @qusuy           revoked from ab80...cefe @alanyoon       
+f485...017e @slappymcslapper revoked from ab80...cefe @alanyoon       
+e77d...023d @nourspace       revoked from ab80...cefe @alanyoon       
+d19a...f5c4 @0xslipk         revoked from ab80...cefe @alanyoon       
+13a6...dddd @c64michael      revoked from 0d78...5a1a @ncontrol88     
+32f2...4b53 @alanyoon        revoked from 0d78...5a1a @ncontrol88     
+2023...9ae3 @theoneid        revoked from 0d78...5a1a @ncontrol88     
+9499...861f @barmaley8971    revoked from 0d78...5a1a @ncontrol88     
+25c3...e341 @texaseduc8r     revoked from 0d78...5a1a @ncontrol88     
+9de5...be48 @zerooooooooo1   revoked from 0d78...5a1a @ncontrol88     
+4ede...093a @ownyrd          revoked from 0d78...5a1a @ncontrol88     
+b8ba...f23d @dmski1          revoked from 0d78...5a1a @ncontrol88     
+949e...d51c @bigbubabeast    revoked from e202...f2ca @neosurya       
+949e...d51c @bigbubabeast    revoked from a35a...d259 @gmcc17         
+9de5...be48 @zerooooooooo1   revoked from 7978...3f54 @_easy123       
+4ede...093a @ownyrd          revoked from 7978...3f54 @_easy123       
+13a6...dddd @c64michael      revoked from 7978...3f54 @_easy123       
+ab80...cefe @alanyoon        revoked from 7978...3f54 @_easy123       
+32f2...4b53 @alanyoon        revoked from d578...af37 @bbk8530        
+9499...861f @barmaley8971    revoked from d578...af37 @bbk8530        
+9a01...7a2e @coin1111        revoked from d578...af37 @bbk8530        
+cf18...7693 @kalvinen        revoked from d578...af37 @bbk8530        
+6bb0...118f @allanwu0101     revoked from d578...af37 @bbk8530        
+aaa0...529a @borkd22         revoked from d578...af37 @bbk8530        
+1939...7d34 @vistli.         revoked from d578...af37 @bbk8530        
+95c8...6ae5 @bbk8530         revoked from d578...af37 @bbk8530        
+b749...5f68 @chris_b2002     revoked from d578...af37 @bbk8530        
+9de5...be48 @zerooooooooo1   revoked from d578...af37 @bbk8530        
+2fa5...95a0 @johnpaul9185    revoked from d578...af37 @bbk8530        
+9499...861f @barmaley8971    revoked from b32e...80dd @blackgrouse_   
+9a01...7a2e @coin1111        revoked from b32e...80dd @blackgrouse_   
+ab80...cefe @alanyoon        revoked from b32e...80dd @blackgrouse_   
+6bb0...118f @allanwu0101     revoked from b32e...80dd @blackgrouse_   
+95c8...6ae5 @bbk8530         revoked from b32e...80dd @blackgrouse_   
+a737...d8cb @_mr.volt        revoked from b32e...80dd @blackgrouse_   
+9a71...5c91 @sirouk          revoked from b32e...80dd @blackgrouse_   
+1939...7d34 @vistli.         revoked from b32e...80dd @blackgrouse_   
+1fff...ecd9 @dboreham        revoked from b32e...80dd @blackgrouse_   
+2fa5...95a0 @johnpaul9185    revoked from b32e...80dd @blackgrouse_   
+d1cc...40a8 @brakod          revoked from aaa0...529a @borkd22        
+7823...666f @dung.ngo        revoked from 6bb0...118f @allanwu0101    
+d1cc...40a8 @brakod          revoked from 6bb0...118f @allanwu0101    
+55b6...cca6 @wuya51          revoked from 6bb0...118f @allanwu0101    
+665e...5863 @dlqsoftware     revoked from 1939...7d34 @vistli.        
+d1cc...40a8 @brakod          revoked from 1939...7d34 @vistli.        
+7823...666f @dung.ngo        revoked from 1939...7d34 @vistli.        
+6ed9...803a @gabby_91        revoked from 1939...7d34 @vistli.        
+9a71...5c91 @sirouk          revoked from b295...755c @imstar15       
+4ede...093a @ownyrd          revoked from b295...755c @imstar15       
+a737...d8cb @_mr.volt        revoked from b295...755c @imstar15       
+55b6...cca6 @wuya51          revoked from 95c8...6ae5 @bbk8530        
+b32e...80dd @blackgrouse_    revoked from 95c8...6ae5 @bbk8530        
+d578...af37 @bbk8530         revoked from 95c8...6ae5 @bbk8530        
+d1cc...40a8 @brakod          revoked from 95c8...6ae5 @bbk8530        
+c88f...3bb4 @.n.u.k.e.       revoked from 95c8...6ae5 @bbk8530        
+25c3...e341 @texaseduc8r     revoked from 95c8...6ae5 @bbk8530        
+9499...861f @barmaley8971    revoked from 95c8...6ae5 @bbk8530        
+6ed9...803a @gabby_91        revoked from 95c8...6ae5 @bbk8530        
+32f2...4b53 @alanyoon        revoked from 95c8...6ae5 @bbk8530        
+ab80...cefe @alanyoon        revoked from 95c8...6ae5 @bbk8530        
+e3d0...082a @blackgrouse_    revoked from 95c8...6ae5 @bbk8530        
+f485...017e @slappymcslapper revoked from 95c8...6ae5 @bbk8530        
+2fa5...95a0 @johnpaul9185    revoked from 95c8...6ae5 @bbk8530        
+0612...807a @qusuy           revoked from 95c8...6ae5 @bbk8530        
+a737...d8cb @_mr.volt        revoked from d1cc...40a8 @brakod         
+9499...861f @barmaley8971    revoked from fdcf...be9b @lemonium9962   
+9a01...7a2e @coin1111        revoked from fdcf...be9b @lemonium9962   
+95c8...6ae5 @bbk8530         revoked from fdcf...be9b @lemonium9962   
+4ede...093a @ownyrd          revoked from fdcf...be9b @lemonium9962   
+ab80...cefe @alanyoon        revoked from fdcf...be9b @lemonium9962   
+a737...d8cb @_mr.volt        revoked from fdcf...be9b @lemonium9962   
+6bb0...118f @allanwu0101     revoked from fdcf...be9b @lemonium9962   
+9a71...5c91 @sirouk          revoked from fdcf...be9b @lemonium9962   
+77f2...6f26 @hemulin         revoked from fdcf...be9b @lemonium9962   
+16b3...3444 @judasdaygame    revoked from fdcf...be9b @lemonium9962   
+b32e...80dd @blackgrouse_    revoked from 9763...e0ea @w3sc           
+52d7...e87f @luckyduder      revoked from 9763...e0ea @w3sc           
+4ede...093a @ownyrd          revoked from 9763...e0ea @w3sc           
+9a71...5c91 @sirouk          revoked from 9763...e0ea @w3sc           
+b8ba...f23d @dmski1          revoked from 9763...e0ea @w3sc           
+7549...a6cd @bethose         revoked from 9763...e0ea @w3sc           
+fdcf...be9b @lemonium9962    revoked from 9763...e0ea @w3sc           
+ab80...cefe @alanyoon        revoked from 9763...e0ea @w3sc           
+d578...af37 @bbk8530         revoked from 9763...e0ea @w3sc           
+55b6...cca6 @wuya51          revoked from 9763...e0ea @w3sc           
+c88f...3bb4 @.n.u.k.e.       revoked from 9763...e0ea @w3sc           
+a737...d8cb @_mr.volt        revoked from 9763...e0ea @w3sc           
+aa7b...09b3 @0xslipk         revoked from 9763...e0ea @w3sc           
+f485...017e @slappymcslapper revoked from 9763...e0ea @w3sc           
+7823...666f @dung.ngo        revoked from 9763...e0ea @w3sc           
+d1cc...40a8 @brakod          revoked from a737...d8cb @_mr.volt       
+7823...666f @dung.ngo        revoked from a737...d8cb @_mr.volt       
+6ed9...803a @gabby_91        revoked from a737...d8cb @_mr.volt       
+b749...5f68 @chris_b2002     revoked from f210...fd78 @blackgrouse_   
+9a01...7a2e @coin1111        revoked from f210...fd78 @blackgrouse_   
+9499...861f @barmaley8971    revoked from f210...fd78 @blackgrouse_   
+aaa0...529a @borkd22         revoked from f210...fd78 @blackgrouse_   
+1939...7d34 @vistli.         revoked from f210...fd78 @blackgrouse_   
+6ed9...803a @gabby_91        revoked from b749...5f68 @chris_b2002    
+665e...5863 @dlqsoftware     revoked from b749...5f68 @chris_b2002    
+9a01...7a2e @coin1111        revoked from 0612...807a @qusuy          
+9499...861f @barmaley8971    revoked from 0612...807a @qusuy          
+95c8...6ae5 @bbk8530         revoked from 0612...807a @qusuy          
+32f2...4b53 @alanyoon        revoked from 0612...807a @qusuy          
+ab80...cefe @alanyoon        revoked from 0612...807a @qusuy          
+2fa5...95a0 @johnpaul9185    revoked from 0612...807a @qusuy          
+a737...d8cb @_mr.volt        revoked from 6ed9...803a @gabby_91       
+4ede...093a @ownyrd          revoked from 6ed9...803a @gabby_91       
+1fff...ecd9 @dboreham        revoked from 8655...6354 @.m0ot          
+9763...e0ea @w3sc            revoked from 8655...6354 @.m0ot          
+cf18...7693 @kalvinen        revoked from 8655...6354 @.m0ot          
+9a71...5c91 @sirouk          revoked from f485...017e @slappymcslapper
+95c8...6ae5 @bbk8530         revoked from f485...017e @slappymcslapper
+1fff...ecd9 @dboreham        revoked from f485...017e @slappymcslapper
+aa7b...09b3 @0xslipk         revoked from f485...017e @slappymcslapper
+13a6...dddd @c64michael      revoked from f485...017e @slappymcslapper
+32f2...4b53 @alanyoon        revoked from f485...017e @slappymcslapper
+ab80...cefe @alanyoon        revoked from f485...017e @slappymcslapper
+d19a...f5c4 @0xslipk         revoked from f485...017e @slappymcslapper
+25c3...e341 @texaseduc8r     revoked from 2fa5...95a0 @johnpaul9185   
+9a01...7a2e @coin1111        revoked from 2fa5...95a0 @johnpaul9185   
+9499...861f @barmaley8971    revoked from 2fa5...95a0 @johnpaul9185   
+b32e...80dd @blackgrouse_    revoked from 2fa5...95a0 @johnpaul9185   
+0612...807a @qusuy           revoked from 2fa5...95a0 @johnpaul9185   
+b8ba...f23d @dmski1          revoked from 2fa5...95a0 @johnpaul9185   
+c88f...3bb4 @.n.u.k.e.       revoked from 2fa5...95a0 @johnpaul9185   
+d578...af37 @bbk8530         revoked from 2fa5...95a0 @johnpaul9185   
+95c8...6ae5 @bbk8530         revoked from 2fa5...95a0 @johnpaul9185   
+55b6...cca6 @wuya51          revoked from 2fa5...95a0 @johnpaul9185   
+52d7...e87f @luckyduder      revoked from 2fa5...95a0 @johnpaul9185   
+ca6b...fdf2 @aaronwhite9527  revoked from 2fa5...95a0 @johnpaul9185   
+b32e...80dd @blackgrouse_    revoked from 77f2...6f26 @hemulin        
+5664...4392 @abed8998        revoked from 77f2...6f26 @hemulin        
+0612...807a @qusuy           revoked from 77f2...6f26 @hemulin        
+e77d...023d @nourspace       revoked from 77f2...6f26 @hemulin        
+25c3...e341 @texaseduc8r     revoked from 77f2...6f26 @hemulin        
+9499...861f @barmaley8971    revoked from 77f2...6f26 @hemulin        
+aa7b...09b3 @0xslipk         revoked from 77f2...6f26 @hemulin        
+b32e...80dd @blackgrouse_    revoked from 16b3...3444 @judasdaygame   
+5664...4392 @abed8998        revoked from 16b3...3444 @judasdaygame   
+0612...807a @qusuy           revoked from 16b3...3444 @judasdaygame   
+e77d...023d @nourspace       revoked from 16b3...3444 @judasdaygame   
+25c3...e341 @texaseduc8r     revoked from 16b3...3444 @judasdaygame   
+9499...861f @barmaley8971    revoked from 16b3...3444 @judasdaygame   
+aa7b...09b3 @0xslipk         revoked from 16b3...3444 @judasdaygame   
+52d7...e87f @luckyduder      revoked from 7441...5aea @kryptikpanda   
+9a71...5c91 @sirouk          revoked from 7441...5aea @kryptikpanda   
+c88f...3bb4 @.n.u.k.e.       revoked from ca6b...fdf2 @aaronwhite9527 
+52d7...e87f @luckyduder      revoked from ca6b...fdf2 @aaronwhite9527 
+2fa5...95a0 @johnpaul9185    revoked from ca6b...fdf2 @aaronwhite9527 
+aa7b...09b3 @0xslipk         revoked from ca6b...fdf2 @aaronwhite9527 
+aa7b...09b3 @0xslipk         revoked from d19a...f5c4 @0xslipk        
+f485...017e @slappymcslapper revoked from d19a...f5c4 @0xslipk        
+25c3...e341 @texaseduc8r     revoked from d19a...f5c4 @0xslipk        
+9499...861f @barmaley8971    revoked from d19a...f5c4 @0xslipk        
+9763...e0ea @w3sc            revoked from d19a...f5c4 @0xslipk        
+b384...e0d8 @pedro00         revoked from d19a...f5c4 @0xslipk        
+ab80...cefe @alanyoon        revoked from d19a...f5c4 @0xslipk        
+c88f...3bb4 @.n.u.k.e.       revoked from d19a...f5c4 @0xslipk        
+b32e...80dd @blackgrouse_    revoked from d19a...f5c4 @0xslipk        
+--------------------------------
+Bid changes in set have been detected.
+
+25c3...e341  0010  ------>  0150(+140)   @texaseduc8r
+9a01...7a2e  0010  ------>  0150(+140)   @coin1111
+9499...861f  0010  ------>  0150(+140)   @barmaley8971
+--------------------------------
+
+2. Set Change from Musical Chairs
+----------------------------------
+ ⛔ Unable to sit (26)
+
+8186...5105   00   1000    -    @ashiiix
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+b32e...80dd   00   0750    -    @blackgrouse_
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+1fff...ecd9   00   0600    -    @dboreham
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+9763...e0ea   00   0500    -    @w3sc
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+71e5...e2fc   00   0450    -    @mrrob0t333
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+949e...d51c   00   0450    -    @bigbubabeast
+Reason : Too few vouches at epoch 134.(< 2 active)
+Reason : The account balance is insufficient.(< Epoch reward)
+
+52d7...e87f   00   0450    -    @luckyduder
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+aa7b...09b3   00   0450    -    @0xslipk
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+9a71...5c91   00   0450    -    @sirouk
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+b8ba...f23d   00   0450    -    @dmski1
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+b5b5...3834   00   0450    -    @ricoflan
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+8655...6354   00   0450    -    @.m0ot
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+7441...5aea   00   0300    -    @kryptikpanda
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+0612...807a   00   0150    -    @qusuy
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+9de5...be48   00   0100    -    @zerooooooooo1
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+55b6...cca6   00   0100    -    @wuya51
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+cf18...7693   00   0100    -    @kalvinen
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+ca6b...fdf2   00   0090    -    @aaronwhite9527
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+4ede...093a   00   0050    -    @ownyrd
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+c88f...3bb4   00   0011    -    @.n.u.k.e.
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+ab80...cefe   00   0011    -    @alanyoon
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+95c8...6ae5   00   0011    -    @bbk8530
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+4d25...92c6   00   0010    -    @saturn_0505
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+b384...e0d8   00   0010    -    @pedro00
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+0d78...5a1a   00   0010    -    @ncontrol88
+Reason : Too few vouches at epoch 134.(< 2 active)
+
+7978...3f54   00   0010    -    @_easy123
+Reason : Too few vouches at epoch 134.(< 2 active)
+Reason : 🚨 Going to jail ╠╬╣ due to poor performance.
+----------------------------------
+
+3. Histogram of Bids within the Set
+------------------------------------
+1000+   
+900-999 
+800-899 
+700-799 
+600-699 
+500-599 ||| 3
+400-499 | 1
+300-399 | 1
+200-299 | 1
+100-199 ||||| 5
+001-099 |||| 4
+------------------------------------
+
+4. Thermostatic Reward Adjustment Result
+-----------------------------------------
+ 🔔 Bidding cleared at 10(+0).
+ 📥 Set entry fee: 1.0%(+0.0%) of epoch reward
+ 🧐 Bid   average: 185.5(-52.9), Median: 150(+25)
+
+ 📜 Epoch  reward: Ƚ 59,216.9452 --> Ƚ 62,177.7924 (+2,960.8472)
+ 🎁 Net    reward: Ƚ 55,833.1197 --> Ƚ 58,624.7757 (+2,791.6560)
+-----------------------------------------
+Epoch reward is continuously increasing. Today is day 120.
+
+5. Prediction for Epoch Reward Increases
+-----------------------------------------
+Initial epoch reward: Ƚ 178.204815
+Daily increase rate if algorithm is triggered.
+- The first   5 days: 5%
+- The remaining days: 5%
+
+Total   period(days): 120
+Final   reward(est.): Ƚ     62,177.80 ($     44.61)
+Total   reward(est.): Ƚ  1,301,991.41 ($    934.18)
+
+Total   period(days): 150
+Final   reward(est.): Ƚ    268,728.85 ($    192.81)
+Total   reward(est.): Ƚ  5,639,563.56 ($  4,046.39)
+
+Total   period(days): 180
+Final   reward(est.): Ƚ  1,161,430.61 ($    833.33)
+Total   reward(est.): Ƚ 24,386,300.45 ($ 17,497.17)
+
+Accumulated payout amount for 120 days.
+ 📜 Epoch  reward: Ƚ 1,301,991.34 ($ 934.18 +101.89)
+ 🎁 Net    reward: Ƚ 1,227,599.01 ($ 880.80 +96.07)
+-----------------------------------------
+
+6. Eligible Validators in Waiting Vouches(16)
+----------------------------------------------
+8186...5105           00   1000    -    @ashiiix
+b32e...80dd           00   0750   vfn   @blackgrouse_
+1fff...ecd9           00   0600    -    @dboreham
+71e5...e2fc           00   0450    -    @mrrob0t333
+949e...d51c           00   0450    -    @bigbubabeast
+52d7...e87f           00   0450    -    @luckyduder
+aa7b...09b3 ╠╬╣ 00   0450    -    @0xslipk
+9a71...5c91           00   0450   vfn   @sirouk
+b5b5...3834           00   0450    -    @ricoflan
+8655...6354           00   0450    -    @.m0ot
+7441...5aea           00   0300    -    @kryptikpanda
+0612...807a           00   0150    -    @qusuy
+9de5...be48           00   0100   vfn   @zerooooooooo1
+55b6...cca6           00   0100   vfn   @wuya51
+cf18...7693           00   0100   vfn   @kalvinen
+ca6b...fdf2           00   0090    -    @aaronwhite9527
+----------------------------------------------
+The validators in the above list satisfy all entry conditions if they secure two active vouches.
+
+If all bids from eligible validators and validators in the set are included,
+ 🧐 Bid average: 295.9, Median: 250
+------------------------
+
+7. Current Active VFN Seed List
+--------------------------------
+  seed_addrs:
+    # bethose 7549...a6cd
+    6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43:
+    - "/ip4/65.109.80.179/tcp/6181/noise-ik/0x6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43/handshake/0"
+    # lemonium9962 fdcf...be9b
+    fac9f11bf973e02ed7b710c11e5f230c69857fa1688922636be3c0225ff2e42c:
+    - "/ip4/37.27.83.253/tcp/6182/noise-ik/0xfac9f11bf973e02ed7b710c11e5f230c69857fa1688922636be3c0225ff2e42c/handshake/0"
+    # alanyoon 32f2...4b53
+    dcab287b256bb1e90cda2537553ee19cac195ce67c2fefc7ff25b8aaf2368e6d:
+    - "/ip4/222.101.31.242/tcp/6182/noise-ik/0xdcab287b256bb1e90cda2537553ee19cac195ce67c2fefc7ff25b8aaf2368e6d/handshake/0"
+
+fullnode_seed_playlist.json generated.
+{
+  "nodes": [
+    {
+      "note": "bethose 7549...a6cd",
+      "url": "http://65.109.80.179:8080/v1"
+    },
+    {
+      "note": "lemonium9962 fdcf...be9b",
+      "url": "http://37.27.83.253:8080/v1"
+    },
+    {
+      "note": "alanyoon 32f2...4b53",
+      "url": "http://222.101.31.242:8080/v1"
+    }
+  ]
+}
+--------------------------------
+
+8. Grand Knights of Open Libra Blockchain
+------------------------------------------
+ 🐉🗡️ alanyoon       32f2...4b53 🛡️👑 Maintained 101 epochs.
+ 🐉🗡️ lemonium9962   fdcf...be9b 🛡️👑 Maintained  95 epochs.
+ 🐉🗡️ bethose        7549...a6cd 🛡️👑 Maintained   9 epochs.
+------------------------------------------
+The Top 5 VFN nodes with the longest continuous uptime in a healthy state are selected.
+If the VFN is confirmed to be unhealthy even once, the running period performance will be reset.
+Considered unhealthy if VFN local ledger version < (network's the highest version - 50).
+
+9. Grouped Family List for All Validators in Universe
+------------------------------------------------------
+Group for Ancestry 0xe34dcb:
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+
+Group for Ancestry 0x275dd4:
+f210...fd78 @blackgrouse_
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+
+Group for Ancestry 0x2fdadc, 0x95b31f, 0xbb565e, 0xf85bb8, 0xfbbf05:
+a737...d8cb @_mr.volt
+b749...5f68 @chris_b2002
+c806...bda4 0xc0a1f4d49658cf2fe5402e10f496bb80
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0x88d2ed:
+7549...a6cd @bethose
+d578...af37 @bbk8530
+7823...666f @dung.ngo
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+fdcf...be9b @lemonium9962
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+Group for Ancestry 0xb080a6:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+9a01...7a2e @coin1111
+b749...5f68 @chris_b2002
+c806...bda4 0xc0a1f4d49658cf2fe5402e10f496bb80
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0x76fba8:
+e77d...023d @nourspace
+5664...4392 @abed8998
+
+Group for Ancestry 0xe3e402:
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+6bb0...118f @allanwu0101
+
+Group for Ancestry 0xf30a27:
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+
+Group for Ancestry 0xeda246:
+aa7b...09b3 @0xslipk
+6ec6...aed 0xecaf65add1b785b0495e3099f4045ec0
+
+Group for Ancestry 0xbdb8ad, 0xcd7c59:
+c88f...3bb4 @.n.u.k.e.
+e77d...023d @nourspace
+7549...a6cd @bethose
+d578...af37 @bbk8530
+5664...4392 @abed8998
+7823...666f @dung.ngo
+b295...755c @imstar15
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+f485...017e @slappymcslapper
+8655...6354 @.m0ot
+b8ba...f23d @dmski1
+25c3...e341 @texaseduc8r
+4d25...92c6 @saturn_0505
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+fdcf...be9b @lemonium9962
+f210...fd78 @blackgrouse_
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+8186...5105 @ashiiix
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+55b6...cca6 @wuya51
+
+Group for Ancestry 0x1ee543:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+b749...5f68 @chris_b2002
+c806...bda4 0xc0a1f4d49658cf2fe5402e10f496bb80
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0xd785eb:
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+
+Group for Ancestry 0xc0a1f4:
+9a71...5c91 @sirouk
+0d78...5a1a @ncontrol88
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+e202...f2ca @neosurya
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+9a01...7a2e @coin1111
+b749...5f68 @chris_b2002
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0x9909f6:
+32f2...4b53 @alanyoon
+ab80...cefe @alanyoon
+
+Group for Ancestry 0xef28ce:
+f485...017e @slappymcslapper
+b8ba...f23d @dmski1
+
+Group for Ancestry 0x2fea48, 0x525d26, 0x7709ee, 0xce1f84:
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+f210...fd78 @blackgrouse_
+8186...5105 @ashiiix
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+55b6...cca6 @wuya51
+
+Group for Ancestry 0x64d54a, 0x763a07:
+b295...755c @imstar15
+4d25...92c6 @saturn_0505
+
+Group for Ancestry 0xf87f7e:
+0d78...5a1a @ncontrol88
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+
+Group for Ancestry 0x7355e0:
+d578...af37 @bbk8530
+7823...666f @dung.ngo
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+fdcf...be9b @lemonium9962
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+Group for Ancestry 0x46a7a7, 0x4c95e7, 0x6a9f0f, 0xbcb79d:
+9499...861f @barmaley8971
+9909...9e4f @pithecus.astr
+32f2...4b53 @alanyoon
+ab80...cefe @alanyoon
+
+Group for Ancestry 0x1:
+4ede...093a @ownyrd
+1fff...ecd9 @dboreham
+13a6...dddd @c64michael
+9de5...be48 @zerooooooooo1
+
+Group for Ancestry 0x356253, 0x851a3b, 0xe367a0:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+
+Group for Ancestry 0x4d1684:
+c806...bda4 0xc0a1f4d49658cf2fe5402e10f496bb80
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0x27e957, 0x85b68b:
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+------------------------------------------------------
+
+------------------------------  Script Execution Time: 8 minutes and 42 seconds
