@@ -310,16 +310,12 @@ No bid changes in set have been detected.
 ----------------------------------
  ⛔ Unable to sit (5)
 
-8186...5105   00   1000    -    @ashiiix420
+8186...5105   00   1000    -    @ashiiix
 Reason : 🚨 Going to jail ╠╬╣ due to poor performance.
-
-7549...a6cd   00   0500    -    @bethose999
-
-2fa5...95a0   02   0050    -    @johnpaul91851000
-
-f485...017e   06   0011    -    @slappymcslapper1000
-
-13a6...dddd   10   0010    -    @c64michael1000
+7549...a6cd   00   0500    -    @bethose
+2fa5...95a0   02   0050    -    @johnpaul9185
+f485...017e   06   0011    -    @slappymcslapper
+13a6...dddd   10   0010    -    @c64michael
 
  🪑 Newly  seated (5)
 
