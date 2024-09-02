@@ -179,8 +179,8 @@ Epoch reward is continuously increasing. Today is day 127.
 -----------------------------------------
 Initial epoch reward: Ƚ 178.204815
 Daily increase rate if algorithm is triggered.
-- The first   5 days: 4%
-- The remaining days: 4%
+- The first   5 days: 5%
+- The remaining days: 5%
 
 Total   period(days): 120
 Final   reward(est.): Ƚ     19,720.60 ($     12.48)
