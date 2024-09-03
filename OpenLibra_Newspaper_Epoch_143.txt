@@ -1,0 +1,572 @@
+    ██████╗ ██████╗ ███████╗███╗   ██╗     ██╗     ██╗██████╗ ██████╗  █████╗  
+   ██╔═══██╗██╔══██╗██╔════╝████╗  ██║     ██║     ██║██╔══██╗██╔══██╗██╔══██╗ 
+   ██║   ██║██████╔╝█████╗  ██╔██╗ ██║     ██║     ██║██████╔╝██████╔╝███████║ 
+   ██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║     ██║     ██║██╔══██╗██╔══██╗██╔══██║ 
+   ╚██████╔╝██║     ███████╗██║ ╚████║     ███████╗██║██████╔╝██║  ██║██║  ██║ 
+    ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝     ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ 
+                  A PERMISSIONLESS, TRANSPARENT, COMMUNITY-DRIVEN PROJECT ✊🔆
+
+1. Active Validators in Set(22) - Epoch 143
+--------------------------------
+8186...5105  02  1000  vfn  @ashiiix         Ƚ   3,384,712.18 {$   2,034.55}                -                
+b32e...80dd  08  0750  vfn  @blackgrouse_    Ƚ     208,313.47 {$     125.22}  Reward received ✓ Ƚ +48,119.72  
+b8ba...f23d  01  0750  vfn  @dmski1          Ƚ   4,762,951.31 {$   2,863.01}  Reward received ✓ Ƚ +48,119.72  
+ca6b...fdf2  03  0700   -   @aaronwhite9527  Ƚ     808,002.51 {$     485.69}  Reward received ✓ Ƚ +48,119.72  
+2fa5...95a0  06  0700   -   @johnpaul9185    Ƚ     134,705.92 {$      80.97}  Reward received ✓ Ƚ +48,119.72  
+0612...807a  07  0600   -   @qusuy           Ƚ     253,665.66 {$     152.48}  Reward received ✓ Ƚ +48,119.72  
+d19a...f5c4  06  0550   -   @0xslipk         Ƚ           0.00 {$       0.00}  Reward received ✓ Ƚ +48,119.72  
+f485...017e  03  0510   -   @slappymcslapper Ƚ     132,223.69 {$      79.48}  Reward received ✓ Ƚ +48,119.72  
+9763...e0ea  06  0500   -   @w3sc            Ƚ     762,167.30 {$     458.14}  Reward received ✓ Ƚ +48,119.72  
+16b3...3444  03  0500   -   @judasdaygame    Ƚ   7,185,467.00 {$   4,319.18}  Reward received ✓ Ƚ +48,119.72  
+95c8...6ae5  06  0500  vfn  @bbk8530         Ƚ     996,488.97 {$     598.99}  Reward received ✓ Ƚ +48,119.71  
+25c3...e341  06  0500   -   @texaseduc8r     Ƚ     304,449.68 {$     183.00}                -                
+9a01...7a2e  05  0500   -   @coin1111        Ƚ   1,328,283.92 {$     798.43}                -                
+7549...a6cd  02  0500  vfn  @bethose         Ƚ   9,767,139.72 {$   5,871.03}  Reward received ✓ Ƚ +48,119.72  
+9499...861f  08  0500   -   @barmaley8971    Ƚ   1,325,628.29 {$     796.84}                -                
+55b6...cca6  07  0500   -   @wuya51          Ƚ     682,684.14 {$     410.36}  Reward received ✓ Ƚ +48,119.72  
+77f2...6f26  03  0500   -   @hemulin         Ƚ     725,423.05 {$     436.05}  Reward received ✓ Ƚ +48,119.72  
+c88f...3bb4  08  0451  vfn  @.n.u.k.e.       Ƚ     708,651.14 {$     425.97}                -                
+32f2...4b53  05  0450   -   @alanyoon        Ƚ     221,368.42 {$     133.06}  Reward received ✓ Ƚ +48,119.71  
+9a71...5c91  04  0450   -   @sirouk          Ƚ   9,819,541.17 {$   5,902.53}  Reward received ✓ Ƚ +48,119.72  
+52d7...e87f  03  0450   -   @luckyduder      Ƚ  11,955,439.59 {$   7,186.41}  Reward received ✓ Ƚ +48,119.72  
+8655...6354  02  0450   -   @.m0ot           Ƚ   2,025,024.09 {$   1,217.24}  Reward received ✓ Ƚ +48,119.72  
+--------------------------------
+$LIBRA Price(USD/Ƚ)
+
+Current price: $ 0.0006011, Price change in the last 24 hours: -4.99%
+From https://api.dexscreener.com/latest/dex/pairs/base/0x809E62A0Abe226853fFdB9E362AFbBbB870B59eb
+--------------------------------
+Supply Status of Open Libra L1 Blockchain
+
+Open Libra Chain Total Supply : Ƚ 94,927,305,807.232 (     -787,418.979)
+Open Libra Circulating Supply : Ƚ  7,452,231,090.906 (+   7,586,561.103)
+From https://api.0l.fyi/stats/total-supply, https://api.0l.fyi/stats/circulating-supply
+
+FDV (Fully Diluted Valuation) : $     57,060,803.521 (  -3,000,201.063)
+FDV (Fully Diluted Valuation) = Total Supply * Current  Price
+
+Est.   Daily   $LIBRA  Unlock : Ƚ      7,586,561.103 (    -631,408.972)
+Est.   Annual  $LIBRA  Unlock : Ƚ  2,769,094,802.595 (-230,464,274.780)
+
+Libra S2F (Stock-to-Flow Ratio) = Total Supply / Anual Issuance(Zero) : The issuance has been completed!
+Libra Issuance Inflation Ratio  = Anual Issuance(Zero) / Total Supply : No issuance inflation!
+
+Libra  CUR (scarcity, replacing S2F) = Circul. Supply / Anual Unlock : 2.691 (+ 0.210)
+Aptos  CUR (scarcity, replacing S2F) = Circul. Supply / Anual Unlock : 8.187 (+ 0.103)
+Libra  Unlock Inflation Ratio = Anual Unlock / Circul. Supply : 37.15% (-3.140%)
+Aptos  Unlock Inflation Ratio = Anual Unlock / Circul. Supply : 12.21% (-0.150%)
+
+Libra  CUR (Average  during 30 days) = Circul. Supply / Anual Unlock : 2.928 (-0.040)
+Aptos  CUR (Average  during 30 days) = Circul. Supply / Anual Unlock : 8.116 (+ 0.012)
+Libra Average Inflation Ratio = Anual Unlock / Circul. Supply : 34.72% (+ 0.404%)
+Aptos Average Inflation Ratio = Anual Unlock / Circul. Supply : 12.31% (-0.017%)
+
+Calculated based on daily changes and monthly average in Aptos’ circulating supply figures from CoinGecko.
+--------------------------------
+Peak TPS[txs/s] Record
+
+6.0(+0.0)[txs/s] over 5s spans, 5.5(+0.3)[txs/s] over 10s spans.
+From diem_data_client_highest_advertised_data{data_type="transaction_outputs"}
+--------------------------------
+Performance Champion
+
+ 🏆 b32e...80dd @blackgrouse_ 🥇  Championship Count: 3 (Current max. count in set: 9)
+ 🗳️ 9,185 proposals were successful, the largest among validators with no failed proposals.
+--------------------------------
+Performance Status of All Validators in Set
+
+b32e...80dd           @blackgrouse_                Finland               000 / 9185(100.0%)🏆🥇||| 3
+b5b5...3834           @ricoflan                    The Netherlands       000 / 9144(99.6%)🏆🥇| 1
+f485...017e           @slappymcslapper vchs ╠╬╣ 01 United States         000 / 9130(99.4%)
+b8ba...f23d           @dmski1          vchs ╠╬╣ 04 United States         000 / 9116(99.2%)🏆🥇||| 3
+0612...807a           @qusuy                       Germany         (0.0%)001 / 9109(99.2%)🏆🥇|||| 4
+13a6...dddd           @c64michael      vchs ╠╬╣ 04 Germany         (0.0%)001 / 9095(99.0%)🏆🥇||| 3
+7549...a6cd           @bethose         vchs ╠╬╣ 03 United States         000 / 9033(98.3%)🏆🥇|||||||| 8
+95c8...6ae5           @bbk8530         vchs ╠╬╣ 01 Germany         (0.0%)003 / 9016(98.2%)🏆🥇| 1
+16b3...3444           @judasdaygame                Germany               000 / 9014(98.1%)🏆🥇|| 2
+2fa5...95a0           @johnpaul9185                The Netherlands       000 / 8995(97.9%)🏆🥇|| 2
+9a71...5c91           @sirouk          vchs ╠╬╣ 05 United States         000 / 8993(97.9%)🏆🥇|||| 4
+52d7...e87f           @luckyduder      vchs ╠╬╣ 03 Canada          (0.0%)001 / 8969(97.6%)🏆🥇| 1
+55b6...cca6           @wuya51          vchs ╠╬╣ 04 Germany         (0.1%)010 / 8938(97.3%)🏆🥇|| 2
+32f2...4b53           @alanyoon        vchs ╠╬╣ 07 South Korea     (0.1%)007 / 8914(97.0%)🏆🥇||||| 5
+9763...e0ea           @w3sc                        Argentina             000 / 8874(96.6%)🏆🥇|||| 4
+fdcf...be9b           @lemonium9962                Singapore             000 / 8863(96.5%)🏆🥇| 1
+7441...5aea           @tabletoptawny               Germany               000 / 8836(96.2%)🏆🥇| 1
+d19a...f5c4           @0xslipk                     United States         000 / 8808(95.9%)
+ca6b...fdf2           @aaronwhite9527              Germany         (0.1%)006 / 8379(91.2%)
+77f2...6f26           @hemulin                     Germany         (1.3%)063 / 4859(52.9%)🏆🥇| 1
+8655...6354           @.m0ot                       France          (0.9%)043 / 4653(50.7%)🏆🥇|| 2
+
+Set Performance(avg ± stddev): 8,567.76 ± 1,248.33
+--------------------------------
+Active vouch changes in set have been detected.
+
+b32e...80dd  06  ------>  08( +2)   @blackgrouse_
+b8ba...f23d  03  ------>  01( -2)   @dmski1
+ca6b...fdf2  02  ------>  03( +1)   @aaronwhite9527
+2fa5...95a0  05  ------>  06( +1)   @johnpaul9185
+0612...807a  05  ------>  07( +2)   @qusuy
+d19a...f5c4  03  ------>  06( +3)   @0xslipk
+f485...017e  04  ------>  03( -1)   @slappymcslapper
+9763...e0ea  05  ------>  06( +1)   @w3sc
+16b3...3444  02  ------>  03( +1)   @judasdaygame
+95c8...6ae5  05  ------>  06( +1)   @bbk8530
+55b6...cca6  08  ------>  07( -1)   @wuya51
+77f2...6f26  02  ------>  03( +1)   @hemulin
+52d7...e87f  04  ------>  03( -1)   @luckyduder
+
+Vouching or revoking actions in the universe have been detected.
+
+9763...e0ea @w3sc            vouched for  8186...5105 @ashiiix        
+b5b5...3834 @ricoflan        vouched for  8186...5105 @ashiiix        
+9763...e0ea @w3sc            vouched for  7549...a6cd @bethose        
+b5b5...3834 @ricoflan        vouched for  9a71...5c91 @sirouk         
+--------------------------------
+Bid changes in set have been detected.
+
+2fa5...95a0  0300  ------>  0700(+400)   @johnpaul9185
+d19a...f5c4  0250  ------>  0550(+300)   @0xslipk
+f485...017e  0550  ------>  0510(-40)   @slappymcslapper
+55b6...cca6  0400  ------>  0500(+100)   @wuya51
+--------------------------------
+
+2. Set Change from Musical Chairs
+----------------------------------
+ ⛔ Unable to sit (4)
+
+b5b5...3834   02   0450    -    @ricoflan        
+fdcf...be9b   05   0300    -    @lemonium9962    
+7441...5aea   07   0300    -    @tabletoptawny   
+13a6...dddd   12   0250    -    @c64michael      
+
+ 🪑 Newly  seated (5)
+
+8186...5105   02   1000   vfn   @ashiiix         
+25c3...e341   06   0500    -    @texaseduc8r     
+9a01...7a2e   05   0500    -    @coin1111        
+9499...861f   08   0500    -    @barmaley8971    
+c88f...3bb4   08   0451   vfn   @.n.u.k.e.       
+
+ 🔔 @coin1111        guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 132.
+ 🔔 @barmaley8971    guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 132.
+ 🔔 @bbk8530         guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 133.
+ 🔔 @judasdaygame    guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 101.
+ 🔔 @hemulin         guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 101.
+ 🔔 @0xslipk         guaranteed ✍🏼 @texaseduc8r     as a Open Libra Validator at epoch 132.
+ 🔔 @texaseduc8r     guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 132.
+ 🔔 @barmaley8971    guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 132.
+ 🔔 @bbk8530         guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 111.
+ 🔔 @lemonium9962    guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 121.
+ 🔔 @blackgrouse_    guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 137.
+ 🔔 @qusuy           guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 133.
+ 🔔 @dmski1          guaranteed ✍🏼 @coin1111        as a Open Libra Validator at epoch 137.
+ 🔔 @0xslipk         guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 132.
+ 🔔 @coin1111        guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 132.
+ 🔔 @texaseduc8r     guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 132.
+ 🔔 @bbk8530         guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 111.
+ 🔔 @lemonium9962    guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 121.
+ 🔔 @blackgrouse_    guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 137.
+ 🔔 @judasdaygame    guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 101.
+ 🔔 @hemulin         guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 101.
+ 🔔 @0xslipk         guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 132.
+ 🔔 @qusuy           guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 133.
+ 🔔 @wuya51          guaranteed ✍🏼 @barmaley8971    as a Open Libra Validator at epoch 136.
+ 🔔 @w3sc            guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 136.
+ 🔔 @aaronwhite9527  guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 139.
+ 🔔 @0xslipk         guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 137.
+ 🔔 @alanyoon        guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 135.
+ 🔔 @johnpaul9185    guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 135.
+ 🔔 @bbk8530         guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 136.
+ 🔔 @sirouk          guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 137.
+ 🔔 @hemulin         guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 138.
+ 🔔 @judasdaygame    guaranteed ✍🏼 @.n.u.k.e.       as a Open Libra Validator at epoch 138.
+----------------------------------
+
+3. Histogram of Bids within the Set
+------------------------------------
+1000+   | 1
+900-999 
+800-899 
+700-799 |||| 4
+600-699 | 1
+500-599 ||||||||||| 11
+400-499 ||||| 5
+300-399 
+200-299 
+100-199 
+001-099 
+------------------------------------
+
+4. Thermostatic Reward Adjustment Result
+-----------------------------------------
+ 🔔 Bidding cleared at 450(+200).
+ 📥 Set entry fee: 45.0%(+20.0%) of epoch reward
+ 🧐 Bid   average: 559.6(+88.2), Median: 500(+50)
+
+ 📜 Epoch  reward: Ƚ 87,490.3980 --> Ƚ 91,864.9179 (+4,374.5199)
+ 🎁 Net    reward: Ƚ 62,493.1414 --> Ƚ 48,119.7189 (-14,373.4225)
+-----------------------------------------
+Epoch reward is continuously increasing. Today is day 128.
+
+5. Prediction for Epoch Reward Increases
+-----------------------------------------
+Initial epoch reward: Ƚ 178.204815
+Daily increase rate if algorithm is triggered.
+- The first   5 days: 0%
+- The remaining days: 0%
+
+Total   period(days): 120
+Final   reward(est.): Ƚ        178.20 ($      0.11)
+Total   reward(est.): Ƚ     21,384.58 ($     12.85)
+
+Total   period(days): 150
+Final   reward(est.): Ƚ        178.20 ($      0.11)
+Total   reward(est.): Ƚ     26,730.72 ($     16.07)
+
+Total   period(days): 180
+Final   reward(est.): Ƚ        178.20 ($      0.11)
+Total   reward(est.): Ƚ     32,076.87 ($     19.28)
+
+Accumulated payout amount for 128 days.
+ 📜 Epoch  reward: Ƚ 1,925,420.98 ($ 1,157.37 -2.72)
+ 🎁 Net    reward: Ƚ 1,710,322.70 ($ 1,028.07 -23.61)
+-----------------------------------------
+
+6. Eligible Validators in Waiting Vouches(14)
+----------------------------------------------
+1fff...ecd9           03   0600    -    @dboreham
+cf18...7693           01   0500   vfn   @kalvinen
+5664...4392           00   0450    -    @abed8998
+b5b5...3834           02   0450    -    @ricoflan
+b384...e0d8 ╠╬╣╠╬╣    02   0300   vfn   @pedro00
+fdcf...be9b           05   0300   vfn   @lemonium9962
+7441...5aea           02   0300    -    @tabletoptawny
+13a6...dddd           05   0250    -    @c64michael
+e77d...023d           00   0150    -    @nourspace
+9de5...be48           00   0100   vfn   @zerooooooooo1
+2023...9ae3           00   0010   vfn   @theoneid
+4d25...92c6           00   0010    -    @saturn_0505
+7823...666f           01   0010   vfn   @dung.ngo
+0d78...5a1a           00   0010    -    @ncontrol88
+----------------------------------------------
+The validators in the above list satisfy all entry conditions if they secure enough vouches.
+
+If all bids from eligible validators and validators in the set are included,
+ 🧐 Bid average: 429.2, Median: 500
+------------------------
+
+7. Current Active VFN Seed List
+--------------------------------
+  seed_addrs:
+    # ashiiix 8186...5105
+    8b5a67f6db1679755c6793c0749b426091ac52d603db867861dc304f0d5ca312:
+    - "/ip4/35.83.165.32/tcp/6182/noise-ik/0x8b5a67f6db1679755c6793c0749b426091ac52d603db867861dc304f0d5ca312/handshake/0"
+    # blackgrouse_ b32e...80dd
+    625be1214cea895d96a86ba4720a8a39f72842af5c0dcf0985d4ed3c586e782a:
+    - "/ip4/5.78.95.73/tcp/6182/noise-ik/0x625be1214cea895d96a86ba4720a8a39f72842af5c0dcf0985d4ed3c586e782a/handshake/0"
+    # dmski1 b8ba...f23d
+    c04300abebc472cdea0e1f7160ece6c09e49145c2b5b72318bdc43c11aceb203:
+    - "/ip4/172.104.211.8/tcp/6182/noise-ik/0xc04300abebc472cdea0e1f7160ece6c09e49145c2b5b72318bdc43c11aceb203/handshake/0"
+    # bbk8530 95c8...6ae5
+    9bb672bd52b91026df415d4bbac8b1a41e10b9d810fb554364acc91da110b44a:
+    - "/ip4/77.237.234.138/tcp/6182/noise-ik/0x9bb672bd52b91026df415d4bbac8b1a41e10b9d810fb554364acc91da110b44a/handshake/0"
+    # bethose 7549...a6cd
+    6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43:
+    - "/ip4/65.109.80.179/tcp/6181/noise-ik/0x6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43/handshake/0"
+    # .n.u.k.e. c88f...3bb4
+    f62fb916479292d3aecf979e284055cd9b44f71e4726dda431ac128062f2b11e:
+    - "/ip4/95.216.165.29/tcp/6182/noise-ik/0xf62fb916479292d3aecf979e284055cd9b44f71e4726dda431ac128062f2b11e/handshake/0"
+
+fullnode_seed_playlist.json generated.
+{
+  "nodes": [
+    {
+      "note": "ashiiix 8186...5105",
+      "url": "http://35.83.165.32:8080/v1"
+    },
+    {
+      "note": "blackgrouse_ b32e...80dd",
+      "url": "http://5.78.95.73:8080/v1"
+    },
+    {
+      "note": "dmski1 b8ba...f23d",
+      "url": "http://172.104.211.8:8080/v1"
+    },
+    {
+      "note": "bbk8530 95c8...6ae5",
+      "url": "http://77.237.234.138:8080/v1"
+    },
+    {
+      "note": "bethose 7549...a6cd",
+      "url": "http://65.109.80.179:8080/v1"
+    },
+    {
+      "note": ".n.u.k.e. c88f...3bb4",
+      "url": "http://95.216.165.29:8080/v1"
+    }
+  ]
+}
+--------------------------------
+
+8. Grand Knights of Open Libra Blockchain
+------------------------------------------
+ 🐉🗡️ blackgrouse_   b32e...80dd 🛡️👑 Maintained   8 epochs.
+ 🐉🗡️ bbk8530        95c8...6ae5 🛡️👑 Maintained   3 epochs.
+ 🐉🗡️ dmski1         b8ba...f23d 🛡️👑 Maintained   2 epochs.
+ 🐉🗡️ bethose        7549...a6cd 🛡️👑 Maintained   2 epochs.
+ 🐉🗡️ ashiiix        8186...5105 🛡️👑 Maintained   1 epochs.
+ 🐉🗡️ .n.u.k.e.      c88f...3bb4 🛡️👑 Maintained   1 epochs.
+------------------------------------------
+The Top 5 VFN nodes with the longest continuous uptime in a healthy state are selected.
+If the VFN is confirmed to be unhealthy even once, or if the connected Validator is dropped from the set,
+the VFN’s running period performance will be reset.
+Considered unhealthy if VFN local ledger version < (network's the highest version - 50).
+
+9. Grouped Family List for All Validators in Universe
+------------------------------------------------------
+Group for Ancestry 0xe34dcb:
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+
+Group for Ancestry 0x275dd4:
+f210...fd78 @blackgrouse_
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+
+Group for Ancestry 0x76fba8:
+e77d...023d @nourspace
+5664...4392 @abed8998
+
+Group for Ancestry 0x2fdadc, 0x95b31f, 0xbb565e, 0xf85bb8, 0xfbbf05:
+a737...d8cb @_mr.volt
+b749...5f68 @chris_b2002
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+c806...bda4 @0xslipk
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0xe3e402:
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+6bb0...118f @allanwu0101
+
+Group for Ancestry 0xf30a27:
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+
+Group for Ancestry 0xeda246:
+aa7b...09b3 @0xslipk
+6ec6...aed 0xecaf65add1b785b0495e3099f4045ec0
+
+Group for Ancestry 0xbdb8ad:
+c88f...3bb4 @.n.u.k.e.
+e77d...023d @nourspace
+7549...a6cd @bethose
+d578...af37 @bbk8530
+5664...4392 @abed8998
+7823...666f @dung.ngo
+b295...755c @imstar15
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+f485...017e @slappymcslapper
+8655...6354 @.m0ot
+b8ba...f23d @dmski1
+25c3...e341 @texaseduc8r
+4d25...92c6 @saturn_0505
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+fdcf...be9b @lemonium9962
+f210...fd78 @blackgrouse_
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+8186...5105 @ashiiix
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+55b6...cca6 @wuya51
+
+Group for Ancestry 0xcd7c59:
+c88f...3bb4 @.n.u.k.e.
+e77d...023d @nourspace
+7549...a6cd @bethose
+d578...af37 @bbk8530
+5664...4392 @abed8998
+7823...666f @dung.ngo
+b295...755c @imstar15
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+abf7...9ca9 0xbdb8ad37341cec0817fd8e2474e25031
+f485...017e @slappymcslapper
+8655...6354 @.m0ot
+b8ba...f23d @dmski1
+25c3...e341 @texaseduc8r
+4d25...92c6 @saturn_0505
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+fdcf...be9b @lemonium9962
+f210...fd78 @blackgrouse_
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+8186...5105 @ashiiix
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+55b6...cca6 @wuya51
+
+Group for Ancestry 0xd785eb:
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+
+Group for Ancestry 0x9909f6:
+32f2...4b53 @alanyoon
+ab80...cefe @alanyoon
+
+Group for Ancestry 0xb080a6:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+9a01...7a2e @coin1111
+b749...5f68 @chris_b2002
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+c806...bda4 @0xslipk
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0xef28ce:
+f485...017e @slappymcslapper
+b8ba...f23d @dmski1
+
+Group for Ancestry 0x2fea48, 0x525d26, 0x7709ee, 0xce1f84:
+52d7...e87f @luckyduder
+71e5...e2fc @mrrob0t333
+949e...d51c @bigbubabeast
+04d3...22b9 @0kamp9
+b384...e0d8 @pedro00
+f210...fd78 @blackgrouse_
+8186...5105 @ashiiix
+b32e...80dd @blackgrouse_
+e3d0...082a @blackgrouse_
+0612...807a @qusuy
+55b6...cca6 @wuya51
+
+Group for Ancestry 0x88d2ed:
+7549...a6cd @bethose
+d578...af37 @bbk8530
+7823...666f @dung.ngo
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+abf7...9ca9 0xbdb8ad37341cec0817fd8e2474e25031
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+fdcf...be9b @lemonium9962
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+Group for Ancestry 0x64d54a, 0x763a07:
+b295...755c @imstar15
+4d25...92c6 @saturn_0505
+
+Group for Ancestry 0x1ee543:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+b749...5f68 @chris_b2002
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+c806...bda4 @0xslipk
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0xc0a1f4:
+9a71...5c91 @sirouk
+0d78...5a1a @ncontrol88
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+e202...f2ca @neosurya
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+a737...d8cb @_mr.volt
+9a01...7a2e @coin1111
+b749...5f68 @chris_b2002
+1939...7d34 @vistli.
+95c8...6ae5 @bbk8530
+aaa0...529a @borkd22
+c806...bda4 @0xslipk
+6bb0...118f @allanwu0101
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+Group for Ancestry 0xf87f7e:
+0d78...5a1a @ncontrol88
+7978...3f54 @_easy123
+a35a...d259 @gmcc17
+
+Group for Ancestry 0x7355e0:
+d578...af37 @bbk8530
+7823...666f @dung.ngo
+2000...77a1 @localhost3616
+2023...9ae3 @theoneid
+665e...5863 @dlqsoftware
+abf7...9ca9 0xbdb8ad37341cec0817fd8e2474e25031
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+fdcf...be9b @lemonium9962
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+Group for Ancestry 0x46a7a7, 0x4c95e7, 0x6a9f0f, 0xbcb79d:
+9499...861f @barmaley8971
+9909...9e4f @pithecus.astr
+32f2...4b53 @alanyoon
+ab80...cefe @alanyoon
+
+Group for Ancestry 0x1:
+4ede...093a @ownyrd
+1fff...ecd9 @dboreham
+13a6...dddd @c64michael
+9de5...be48 @zerooooooooo1
+
+Group for Ancestry 0x356253, 0x851a3b, 0xe367a0:
+cf18...7693 @kalvinen
+16b3...3444 @judasdaygame
+77f2...6f26 @hemulin
+
+Group for Ancestry 0x27e957, 0x85b68b:
+8655...6354 @.m0ot
+25c3...e341 @texaseduc8r
+d1cc...40a8 @brakod
+6ed9...803a @gabby_91
+
+Group for Ancestry 0x4d1684:
+c806...bda4 @0xslipk
+ca6b...fdf2 @aaronwhite9527
+d19a...f5c4 @0xslipk
+
+------------------------------------------------------
+
+------------------------------  Script Execution Time: 9 minutes and 52 seconds
