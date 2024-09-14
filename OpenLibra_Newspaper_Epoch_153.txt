@@ -266,43 +266,34 @@ If all bids from eligible validators and validators in the set are included,
   seed_addrs:
     # wuya51 55b6...cca6
     febaed185e04d0f158998b39501796d0b79235399796e96a1c9a3fac2f31ab57:
-    - "/ip4/38.242.137.192/tcp/6182/noise-ik/0xfebaed185e04d0f158998b39501796d0b79235399796e96a1c9a3fac2f31ab57/handshak
-e/0"
+    - "/ip4/38.242.137.192/tcp/6182/noise-ik/0xfebaed185e04d0f158998b39501796d0b79235399796e96a1c9a3fac2f31ab57/handshake/0"
     # blackgrouse_ b32e...80dd
     625be1214cea895d96a86ba4720a8a39f72842af5c0dcf0985d4ed3c586e782a:
     - "/ip4/5.78.95.73/tcp/6182/noise-ik/0x625be1214cea895d96a86ba4720a8a39f72842af5c0dcf0985d4ed3c586e782a/handshake/0"
     # bbk8530 95c8...6ae5
     9bb672bd52b91026df415d4bbac8b1a41e10b9d810fb554364acc91da110b44a:
-    - "/ip4/77.237.234.138/tcp/6182/noise-ik/0x9bb672bd52b91026df415d4bbac8b1a41e10b9d810fb554364acc91da110b44a/handshak
-e/0"
+    - "/ip4/77.237.234.138/tcp/6182/noise-ik/0x9bb672bd52b91026df415d4bbac8b1a41e10b9d810fb554364acc91da110b44a/handshake/0"
     # lemonium9962 fdcf...be9b
     fac9f11bf973e02ed7b710c11e5f230c69857fa1688922636be3c0225ff2e42c:
-    - "/ip4/37.27.83.253/tcp/6182/noise-ik/0xfac9f11bf973e02ed7b710c11e5f230c69857fa1688922636be3c0225ff2e42c/handshake/
-0"
+    - "/ip4/37.27.83.253/tcp/6182/noise-ik/0xfac9f11bf973e02ed7b710c11e5f230c69857fa1688922636be3c0225ff2e42c/handshake/0"
     # bethose 7549...a6cd
     6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43:
-    - "/ip4/65.109.80.179/tcp/6181/noise-ik/0x6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43/handshake
-/0"
+    - "/ip4/65.109.80.179/tcp/6181/noise-ik/0x6ead5e1c7fe9f7c09e965f230cf8cf3cbbcacc33a562737aebd7387a90b04a43/handshake/0"
     # ricoflan b5b5...3834
     9ac157ee324e4129c9edac7ba5eca70af299929ae8c0d7362f4e6c75a7ac447e:
-    - "/ip4/104.248.94.195/tcp/6182/noise-ik/0x9ac157ee324e4129c9edac7ba5eca70af299929ae8c0d7362f4e6c75a7ac447e/handshak
-e/0"
+    - "/ip4/104.248.94.195/tcp/6182/noise-ik/0x9ac157ee324e4129c9edac7ba5eca70af299929ae8c0d7362f4e6c75a7ac447e/handshake/0"
     # judasdaygame 16b3...3444
     dd1282d1040d401c808cdd8b03195657320599e5eb9eaeec5e44c7380a53411c:
-    - "/ip4/188.40.107.113/tcp/6182/noise-ik/0xdd1282d1040d401c808cdd8b03195657320599e5eb9eaeec5e44c7380a53411c/handshak
-e/0"
+    - "/ip4/188.40.107.113/tcp/6182/noise-ik/0xdd1282d1040d401c808cdd8b03195657320599e5eb9eaeec5e44c7380a53411c/handshake/0"
     # hemulin 77f2...6f26
     aa04fbc572cc366d3beab9fa1d3654a1bf1d2472f870c6dae4fb3c11c7766021:
-    - "/ip4/188.40.107.105/tcp/6182/noise-ik/0xaa04fbc572cc366d3beab9fa1d3654a1bf1d2472f870c6dae4fb3c11c7766021/handshak
-e/0"
+    - "/ip4/188.40.107.105/tcp/6182/noise-ik/0xaa04fbc572cc366d3beab9fa1d3654a1bf1d2472f870c6dae4fb3c11c7766021/handshake/0"
     # dmski1 b8ba...f23d
     c04300abebc472cdea0e1f7160ece6c09e49145c2b5b72318bdc43c11aceb203:
-    - "/ip4/172.104.211.8/tcp/6182/noise-ik/0xc04300abebc472cdea0e1f7160ece6c09e49145c2b5b72318bdc43c11aceb203/handshake
-/0"
+    - "/ip4/172.104.211.8/tcp/6182/noise-ik/0xc04300abebc472cdea0e1f7160ece6c09e49145c2b5b72318bdc43c11aceb203/handshake/0"
     # pedro00 b384...e0d8
     5d0887f01a68ea3abf657a0f800f2b25b891b5324268a716bb538c4c1c6a9925:
-    - "/ip4/84.247.189.19/tcp/6182/noise-ik/0x5d0887f01a68ea3abf657a0f800f2b25b891b5324268a716bb538c4c1c6a9925/handshake
-/0"
+    - "/ip4/84.247.189.19/tcp/6182/noise-ik/0x5d0887f01a68ea3abf657a0f800f2b25b891b5324268a716bb538c4c1c6a9925/handshake/0"
 
 fullnode_seed_playlist.json generated.
 {
