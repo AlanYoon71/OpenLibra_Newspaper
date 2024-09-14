@@ -570,6 +570,4 @@ c806...bda4 @0xslipk
 ca6b...fdf2 @aaronwhite9527
 d19a...f5c4 @0xslipk
 
-------------------------------------------------------
-
-------------------------------  Script Execution Time: 7 minutes and 26 seconds
+------------------------------------------------------------------------------------  Script Execution Time: 7 minutes and 26 seconds
