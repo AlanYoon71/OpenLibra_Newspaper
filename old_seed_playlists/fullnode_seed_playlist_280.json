@@ -1,6 +1,10 @@
 {
   "nodes": [
     {
+      "note": "dmski1 b8ba...f23d",
+      "url": "http://172.104.211.8:8080/v1"
+    },
+    {
       "note": "sirouk 9a71...5c91",
       "url": "http://70.15.242.6:8080/v1"
     },
@@ -9,12 +13,12 @@
       "url": "http://183.97.180.65:8080/v1"
     },
     {
-      "note": "aaronwhite9527 ca6b...fdf2",
-      "url": "http://49.13.77.74:8080/v1"
-    },
-    {
       "note": "bbk8530 95c8...6ae5",
       "url": "http://77.237.234.138:8080/v1"
+    },
+    {
+      "note": "aaronwhite9527 ca6b...fdf2",
+      "url": "http://49.13.77.74:8080/v1"
     },
     {
       "note": "lemonium9962 fdcf...be9b",
